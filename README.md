@@ -23,3 +23,33 @@ http://148.251.185.117:8000/hls/admin/2y13l537vTyV8ymeH1XgTBSNqOSgLxTa4GMfkGCgwj
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/zo3ri", group-title="DEPORTES", ESPN 1 PY
 https://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8?aaa
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-2_m.png", group-title="DEPORTES", ESPN 2 ARG
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY-mp4a_145200_spa=20000-avc1_899968=10003.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/g1h40", group-title="DEPORTES", Fox Sports Premium
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/bftx1", group-title="DEPORTES", Fox Sports 1 ARG
+http://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-mp4a_145200_spa=20001-avc1_899968=10009.m3u8?40
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/rfce1", group-title="DEPORTES", Fox Sports 2 ARG
+https://edge5-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-mp4a_144800_spa=20000-avc1_1344000=10001.m3u8?40
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/okvr3", group-title="DEPORTES", TyC SPORTS ARG
+https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/21vh2s", group-title="DEPORTES", TNT SPORTS CHILE
+https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwinooiewpeof/1646158252/src/live.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/jncul", group-title="DEPORTES", MARCA CLARO MX
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
