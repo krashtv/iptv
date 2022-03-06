@@ -1,8 +1,8 @@
 #EXTM3U
 
 ***EVENTOS***
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Real madrid 1 
-
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 1 
+https://videodelivery.net/45356b9856a5a9cd033b62cf82be5f9d/manifest/stream_t1_r2.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Real madrid 2
 https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/23hOSuKmAuRlmb5w_WpRyKo8O0G-g2JbNJfMStYVByprcJYzGusWeZ4GnmGX1a2tkrykTcR875xnkst6OrFUOA/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?SBN
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Real madrid 3
