@@ -16,7 +16,7 @@ https://pull.jzdyll.com/leisu/1115698215649247.m3u8?auth_key=1646535750-0-0-40d2
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador opc 3
 https://livestreamapis.com/v3/accounts/28253671/events/9183137/master.m3u8?token=14a41db7950190d8487e65aadce252f8&clientId=18998&timestamp=1646525899699&signature=605c4756797d80000dfb2d167eacd10ee8c5811568c4e020fee215854f5abdf63dba8ddfaa721d40fa7c6cf5b8264fdc
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/b0xo6", group-title="DEPORTES", LaLiga 1 
-http://liga.myddns.me:8000/hls/admin/2y13l537vTyV8ymeH1XgTBSNqOSgLxTa4GMfkGCgwjpSFdW5pjDvpAO/ultratotal/index.m3u8
+http://ultratotal.ddns.net/xls/champiota/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/b0xo6", group-title="DEPORTES", LaLiga 1 opc 2
 http://148.251.185.117:8000/hls/admin/2y13l537vTyV8ymeH1XgTBSNqOSgLxTa4GMfkGCgwjpSFdW5pjDvpAO/ultratotal/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/do0yv", group-title="DEPORTES", Tnt Sports Stadium CL
@@ -38,7 +38,9 @@ https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sport
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/bftx1", group-title="DEPORTES", Fox Sports 1 ARG
 http://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-mp4a_145200_spa=20001-avc1_899968=10009.m3u8?40
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/rfce1", group-title="DEPORTES", Fox Sports 2 ARG
-https://edge5-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-mp4a_144800_spa=20000-avc1_1344000=10001.m3u8?40
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://i.imgur.com/VxIZXH9.png", group-title="DEPORTES", Fox Sports 3 ARG
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/okvr3", group-title="DEPORTES", TyC SPORTS ARG
 https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/21vh2s", group-title="DEPORTES", TNT SPORTS CHILE
