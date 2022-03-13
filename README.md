@@ -12,9 +12,9 @@ https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/23hOSuKmAuRlmb5w_WpRy
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
 https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8?aaa
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador opc 2
-https://pull.jzdyll.com/leisu/1115698215649247.m3u8?auth_key=1646535750-0-0-40d203545fb989eb96f7ca0cbb7146bb
+https://mn-nl-glb.mncdn.com/dlive/transcode-92-211/bielefeldk/1647127271/src/live.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador opc 3
-https://livestreamapis.com/v3/accounts/28253671/events/9183137/master.m3u8?token=14a41db7950190d8487e65aadce252f8&clientId=18998&timestamp=1646525899699&signature=605c4756797d80000dfb2d167eacd10ee8c5811568c4e020fee215854f5abdf63dba8ddfaa721d40fa7c6cf5b8264fdc
+https://playback2.akamaized.net/streams/23200525_10231154_lsiz55zsgan65y3t2ch_1/master.m3u8?dw=80&hdnts=exp=1647133220~acl=/streams/23200525_10231154_lsiz55zsgan65y3t2ch_1/master.m3u8*~hmac=2fdafd2246ff84888549f7660a0d853d517b3212aa4a9bb5600c8d9131598c82
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/b0xo6", group-title="DEPORTES", LaLiga 1 
 http://ultratotal.ddns.net/xls/champiota/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/b0xo6", group-title="DEPORTES", LaLiga 1 opc 2
