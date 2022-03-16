@@ -36,7 +36,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/g1h40", group-title="DEPORTES", Fox Sports Premium
 https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/bftx1", group-title="DEPORTES", Fox Sports 1 ARG
-http://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-mp4a_145200_spa=20001-avc1_899968=10009.m3u8?40
+https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8?aaa
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/rfce1", group-title="DEPORTES", Fox Sports 2 ARG
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://i.imgur.com/VxIZXH9.png", group-title="DEPORTES", Fox Sports 3 ARG
