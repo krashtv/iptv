@@ -2,11 +2,11 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 1 
-https://videodelivery.net/45356b9856a5a9cd033b62cf82be5f9d/manifest/stream_t1_r2.m3u8
+https://videodelivery.net/53cce0885cb17a83470b06c895ca4d5c/manifest/stream_t1_r2.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Real madrid 2
-https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/23hOSuKmAuRlmb5w_WpRyKo8O0G-g2JbNJfMStYVByprcJYzGusWeZ4GnmGX1a2tkrykTcR875xnkst6OrFUOA/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?SBN
+https://videodelivery.net/53cce0885cb17a83470b06c895ca4d5c/manifest/stream_t1_r2.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Real madrid 3
-
+http://alv.encohd.co:39591/j0roNAC/n3XT33/534
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
