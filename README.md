@@ -2,7 +2,7 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 1 
-https://videodelivery.net/53cce0885cb17a83470b06c895ca4d5c/manifest/video.m3u8
+https://videodelivery.net/a8a181cc05442785de48b3528962dc04/manifest/video.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 2
 http://89.163.144.105:8001/Appmitierratvs/E01RhAbfkr/36
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 3
