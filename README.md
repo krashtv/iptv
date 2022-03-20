@@ -1,8 +1,8 @@
-#EXTM3U
+https://videodelivery.net/8e68219c43346414a4888e8506bb9758/manifest/video.m3u8#EXTM3U
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 1 
-https://videodelivery.net/6086a2774b50ccfa9b16b73ccffc8fe1/manifest/video.m3u8
+https://videodelivery.net/8e68219c43346414a4888e8506bb9758/manifest/video.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 2
 http://89.163.144.105:8001/Appmitierratvs/E01RhAbfkr/36
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 3
