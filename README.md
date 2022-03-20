@@ -4,7 +4,7 @@ https://videodelivery.net/8e68219c43346414a4888e8506bb9758/manifest/video.m3u8#E
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 1 
 https://5g9s179kfgx9wn8tqwj9-cul47i-cfl.p5cdn.com/dlive/transcode-81-110/dlive-dihupyoptj/1647736917/src/live.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 2
-http://89.163.144.105:8001/Appmitierratvs/E01RhAbfkr/36
+https://cdn.livepeer.com/hls/7a5914474q0ku76l/0_1/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 3
 http://alv.encohd.co:39591/j0roNAC/n3XT33/534
 
