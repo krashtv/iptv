@@ -6,7 +6,7 @@ https://5g9s179kfgx9wn8tqwj9-cul47i-cfl.p5cdn.com/dlive/transcode-81-110/dlive-d
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 2
 https://cdn.livepeer.com/hls/7a5914474q0ku76l/0_1/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 3
-http://alv.encohd.co:39591/j0roNAC/n3XT33/534
+https://directvsports-live.akamaized.net/hls/live/2026717/DTVSAR/stream05/hdntl=exp=1647892728~acl=%2f*~data=hdntl~hmac=e7994b584cedfad323645e3e6a5b49439786237d40120c877f27f433dde698ec/streamPlaylist.m3u8
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
