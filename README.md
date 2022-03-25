@@ -1,11 +1,11 @@
-https://videodelivery.net/8e68219c43346414a4888e8506bb9758/manifest/video.m3u8#EXTM3U
+#EXTM3U
 
 ***EVENTOS***
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 1
-https://videodelivery.net/2c74baa1f4616cb6ed08361264c3ae19/manifest/video.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 2
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Argentina 1
+https://videodelivery.net/4b48e74e02b1afa2dde167040cab628e/manifest/video.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Argentina 2
 https://cdn.livepeer.com/hls/2d711o7dfl83y57g/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 3
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Argentina 3
 https://videodelivery.net/8066a79a9bb307c81ff0699499623760/manifest/video.m3u8
 
 ***DEPORTES***
