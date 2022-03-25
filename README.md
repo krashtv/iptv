@@ -5,8 +5,8 @@ https://videodelivery.net/8e68219c43346414a4888e8506bb9758/manifest/video.m3u8#E
 https://videodelivery.net/2c74baa1f4616cb6ed08361264c3ae19/manifest/video.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 2
 https://cdn.livepeer.com/hls/2d711o7dfl83y57g/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 3
-https://directvsports-live.akamaized.net/hls/live/2026717/DTVSAR/stream05/hdntl=exp=1647892728~acl=%2f*~data=hdntl~hmac=e7994b584cedfad323645e3e6a5b49439786237d40120c877f27f433dde698ec/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 3
+https://videodelivery.net/8066a79a9bb307c81ff0699499623760/manifest/video.m3u8
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
