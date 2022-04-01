@@ -10,7 +10,7 @@ https://videodelivery.net/8066a79a9bb307c81ff0699499623760/manifest/video.m3u8
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
-https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8?aaa
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/514.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador opc 2
 https://walvaradoutc.shortcm.li/GolTvOP1.m3u8?aaa
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador opc 3
