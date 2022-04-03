@@ -60,7 +60,7 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/mb1x0", group-title="EL CHAVO DEL 8", El Chavo cap. 114 Espiritus Chocarreros 1
 https://proxy-04.nyc.dailymotion.com/sec(Ag2kWK5ZJFfHITwn7VOjZCIpBAZCL4gsaa8UYYzjWYv369Ks5Bl9gV9RCr9rWbQIIj4BElyReKgz46DIcoSliVfIdFDsEj_njUBSqr3tdHE)/video/556/013/488310655_mp4_h264_aac.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/mb1x0", group-title="EL CHAVO DEL 8", El Chavo cap. 114 Espiritus Chocarreros 2
-https://proxy-16.nyc.dailymotion.com/sec(S3gE9S9zMTHQTANoX-MBCeNNHXyDtcZ3IrAdx3SJca2QP1E3hJb5ZnbyILqiWGQNQqr_rP8Fn-oUK2pljzYrfzYPUJwGjakK0P7n6idTVfs)/video/656/013/488310656_mp4_h264_aac.m3u8#cell=nyc
+https://proxy-16.nyc.dailymotion.com/sec(S3gE9S9zMTHQTANoX-MBCeNNHXyDtcZ3IrAdx3SJca2QP1E3hJb5ZnbyILqiWGQNQqr_rP8Fn-oUK2pljzYrfzYPUJwGjakK0P7n6idTVfs)/video/656/013/488310656_mp4_h264_aac.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/mb1x0", group-title="EL CHAVO DEL 8", El chavo cap. 150 Don Ramon Zapatero 1
 https://proxy-15.nyc.dailymotion.com/sec(IEbO6Z1LHuUskp709C0fW7VLSeI9Yo71Ruke2jX9uwAX9BJ27RBhdC7PhmN8Rs4vF0OjuLHqvPEFWs2IfCXKzZJcThu9yI-ml07cejxIDhk)/video/303/803/488308303_mp4_h264_aac.m3u8#cell=nyc
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/mb1x0", group-title="EL CHAVO DEL 8", El chavo cap. 151 Don Ramon Zapatero 2
