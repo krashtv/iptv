@@ -71,10 +71,26 @@ https://proxy-13.nyc.dailymotion.com/sec(gZypywRCHzTqoDzDQDPWkunheLl5X3VkgDndZlR
 
 
 //El gran chaparral
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x1
+https://proxy-027.dc3.dailymotion.com/sec(w5efqWj1U6D91t1Jg1W0Q2w6H0Noe6KNVxmp7ZYm660yF8XiiSmL5qUseBcVvFMWbd-7dEPOW7GTWw23ItIhr8Bl2y33WApB7vE8HXdYP18)/video/932/113/471311239_mp4_h264_aac_hq.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x2 
+https://proxy-021.dc3.dailymotion.com/sec(49Ubi9udHuLcl5WIYb0CSk-9mLvFtbPRDLiqmQs_JkBxq7VB3bFTUenKun1SKpvDYksqBmjpP8ijL9TC3v4X_C7kccgCtb_IkZ8LaUR9b3I)/video/627/621/481126726_mp4_h264_aac.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x3
+https://proxy-015.dc3.dailymotion.com/sec(6mjGSXKUXBTNOsXCOTFc-Wz-sPocyYQTSigBeBUHwcNdgo7XZArfuBEnkbdxJ3k_Ql_XGFL33JvOWHkX_nmNWyNzldw9ncItbUqBlF6jU1E)/video/142/113/471311241_mp4_h264_aac_hq.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x4
 
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x5
 
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x6
 
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x7
 
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x8
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x9
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x10
+https://sto018.akamai-cdn-content.com/tysxe5lg6666j6cdababvg26ey544cwjixjw3vk6yosznacp4hb6rpzf5vca/el-gran-chaparral-temporada-1-capitulo-14_1.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="ANUNCIO SHORTGOD" tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="ShortGod",ANUNCIO: ShortGod
 http://gratis.shortgod.com/vencida.php?anuncio&gratuito.m3u8
