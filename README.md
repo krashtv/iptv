@@ -1,12 +1,12 @@
 #EXTM3U
 
 ***EVENTOS***
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Argentina 1
-https://videodelivery.net/4b48e74e02b1afa2dde167040cab628e/manifest/video.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Argentina 2
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 1
+https://cdn.livepeer.com/hls/030fy01veyit8dv5/0_1/video.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 2
 https://cdn.livepeer.com/hls/2d711o7dfl83y57g/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Argentina 3
-https://videodelivery.net/8066a79a9bb307c81ff0699499623760/manifest/video.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 3
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/259.m3u8
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
