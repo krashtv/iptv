@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 1
 https://cdn.livepeer.com/hls/030fy01veyit8dv5/0_1/video.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 2
-https://cdn.livepeer.com/hls/2d711o7dfl83y57g/index.m3u8
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 3
 http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/259.m3u8
 
