@@ -2,11 +2,11 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 1
-https://cdn.livepeer.com/hls/030fy01veyit8dv5/0_1/video.m3u8
+http://188.34.177.35/xls/ligota/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 2
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/34.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 3
-http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/259.m3u8
+http://178.79.168.114:80/live/abr_s-4/live/s-4/chunks.m3u8?SBN
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
