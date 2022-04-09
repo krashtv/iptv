@@ -1,12 +1,13 @@
 #EXTM3U
 
 ***EVENTOS***
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 1
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", madrid 1
+https://videodelivery.net/902f3022e8091b6dd3ef0cedd020dde5/manifest/video.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", madrid 2
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/pbLzsWGr-6huThM-IrddxALvIjVp8aeQNw0rXbEY-SruHpQBus7McISa8h8ksIR92puLiGZHzpj6tfsxRFEbQw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", madrid 3
 http://188.34.177.35/xls/ligota/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 2
-http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/34.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 3
-http://178.79.168.114:80/live/abr_s-4/live/s-4/chunks.m3u8?SBN
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
