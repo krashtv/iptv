@@ -2,7 +2,8 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", madrid 1
-https://videodelivery.net/902f3022e8091b6dd3ef0cedd020dde5/manifest/video.m3u8
+https://videodelivery.net/4143517b4a3a73a5e3bc376db3494b18/manifest/video.m3u8
+
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", madrid 2
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/pbLzsWGr-6huThM-IrddxALvIjVp8aeQNw0rXbEY-SruHpQBus7McISa8h8ksIR92puLiGZHzpj6tfsxRFEbQw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 
