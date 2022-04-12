@@ -134,679 +134,1054 @@ https://sto018.akamai-cdn-content.com/tysxe5lg6666j6cdababvg26ey544cwjixjw3vk6yo
 
 
 
-//Juego del calamar
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL JUEGO DEL CALAMAR", 1X01
-https://sto026.akamai-cdn-content.com/tysxfwd3a266j6cdaairhsifer2xz4kkece2s6ihxedm7s6h6zzbi6ic674q/Ver_El_juego_del_calamar_1x1_Online_Gratis_Completas_HD.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ANUNCIO SHORTGOD" tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="ShortGod",ANUNCIO: ShortGod
-http://gratis.shortgod.com/vencida.php?anuncio&gratuito.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://51.222.152.107:81/posters/1502752859399.jpg" group-title="CINEMA ",A&E
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3019
-#EXTINF:-1 tvg-id="" tvg-name="A+" tvg-logo="" group-title="MEXICO ",A+
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3024
-#EXTINF:-1 tvg-id="" tvg-name="A3 Series" tvg-logo="http://51.222.152.107:81/posters/1530597051256.jpg" group-title="CINEMA ",A3 Series
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3018
-#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="http://51.222.152.107:81/posters/1502409076451.jpg" group-title="MEXICO ",ADN 40
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3020
-#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports Network" tvg-logo="" group-title="DEPORTES ",Adrenalina Sports Network
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3192
-#EXTINF:-1 tvg-id="" tvg-name="Afizzionados" tvg-logo="http://51.222.152.107:81/posters/1531027896579.jpg" group-title="DEPORTES ",Afizzionados
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3193
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://51.222.152.107:81/posters/1502752868464.jpg" group-title="CINEMA ",AMC
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3021
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://51.222.152.107:81/posters/1502752879305.jpg" group-title="CULTURALES ",Animal Planet
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3022
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="http://51.222.152.107:81/posters/1530597180220.jpg" group-title="ENTRETENIMIENTO ",Antena 3
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3023
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - ESPN" tvg-logo="" group-title="DEPORTES ",Argentina - ESPN
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3230
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - ESPN 2" tvg-logo="" group-title="DEPORTES ",Argentina - ESPN 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3231
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - ESPN 3" tvg-logo="" group-title="DEPORTES ",Argentina - ESPN 3
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3232
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - FOX Sports" tvg-logo="" group-title="DEPORTES ",Argentina - FOX Sports
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3233
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - FOX Sports 2" tvg-logo="" group-title="DEPORTES ",Argentina - FOX Sports 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3234
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - FOX Sports 3" tvg-logo="" group-title="DEPORTES ",Argentina - FOX Sports 3
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3235
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - FOX Sports Premium" tvg-logo="" group-title="DEPORTES ",Argentina - FOX Sports Premium
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3236
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - TNT Sports" tvg-logo="" group-title="DEPORTES ",Argentina - TNT Sports
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3237
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - TYC Sports" tvg-logo="" group-title="DEPORTES ",Argentina - TYC Sports
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3238
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://51.222.152.107:81/posters/1502752888382.jpg" group-title="CINEMA ",AXN
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3025
-#EXTINF:-1 tvg-id="" tvg-name="AyM Sports" tvg-logo="http://51.222.152.107:81/posters/1502752898522.jpg" group-title="DEPORTES ",AyM Sports
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3026
-#EXTINF:-1 tvg-id="" tvg-name="Az Cinema" tvg-logo="http://51.222.152.107:81/posters/1502752909502.jpg" group-title="CINEMA ",Az Cinema
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3027
-#EXTINF:-1 tvg-id="" tvg-name="Az Corazon" tvg-logo="http://51.222.152.107:81/posters/1502752938580.jpg" group-title="MEXICO ",Az Corazon
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3028
-#EXTINF:-1 tvg-id="" tvg-name="Az Mundo" tvg-logo="http://51.222.152.107:81/posters/1502752948197.jpg" group-title="MEXICO ",Az Mundo
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3029
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="http://51.222.152.107:81/posters/1502752992158.jpg" group-title="MEXICO ",Azteca 7
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3030
-#EXTINF:-1 tvg-id="" tvg-name="Azteca UNO" tvg-logo="http://51.222.152.107:81/posters/1527113942248.jpg" group-title="MEXICO ",Azteca UNO
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3031
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno -2 Horas" tvg-logo="" group-title="MEXICO ",Azteca Uno -2 Horas
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3144
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="http://51.222.152.107:81/posters/1596473429543.jpg" group-title="INFANTILES ",Baby First
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3032
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://51.222.152.107:81/posters/1530595474268.jpg" group-title="INFANTILES ",Baby TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3033
-#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="http://51.222.152.107:81/posters/1502753003472.jpg" group-title="MUSICA ",Bandamax
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3034
-#EXTINF:-1 tvg-id="" tvg-name="Barca TV" tvg-logo="http://51.222.152.107:81/posters/1509421148258.jpg" group-title="DEPORTES ",Barca TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3220
-#EXTINF:-1 tvg-id="" tvg-name="Barney y sus amigos" tvg-logo="http://51.222.152.107:81/posters/1610693106459.jpg" group-title="24/7 ",Barney y sus amigos
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3366
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports USA" tvg-logo="http://51.222.152.107:81/posters/1493241634576.jpg" group-title="DEPORTES ",BeinSports USA
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3196
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports ÃƒÂ±" tvg-logo="http://51.222.152.107:81/posters/1502828558208.jpg" group-title="DEPORTES ",BeinSports ÃƒÂ±
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3195
-#EXTINF:-1 tvg-id="" tvg-name="BitMe" tvg-logo="" group-title="INFANTILES ",BitMe
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3035
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="http://51.222.152.107:81/posters/1610693186338.jpg" group-title="24/7 ",Bob Esponja
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3355
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://51.222.152.107:81/posters/1502753013284.jpg" group-title="INFANTILES ",Boomerang
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3036
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Sport TV 1" tvg-logo="" group-title="DEPORTES ",Brasil - Sport TV 1
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3239
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="http://51.222.152.107:81/posters/1610693208284.jpg" group-title="24/7 ",Breaking Bad
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3356
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="http://51.222.152.107:81/posters/1502409113408.jpg" group-title="MEXICO ",Canal 11
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3037
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="http://51.222.152.107:81/posters/1502753025270.jpg" group-title="MEXICO ",Canal 5
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3038
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 (Gala TV)" tvg-logo="http://51.222.152.107:81/posters/1502753710256.jpg" group-title="MEXICO ",Canal 9 (Gala TV)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3086
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 (Gala TV)" tvg-logo="http://51.222.152.107:81/posters/1502754679156.jpg" group-title="MEXICO ",Canal 9 (Gala TV)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3147
-#EXTINF:-1 tvg-id="" tvg-name="Canal Toros" tvg-logo="http://51.222.152.107:81/posters/1496868600445.jpg" group-title="DEPORTES ",Canal Toros
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3197
-#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="http://51.222.152.107:81/posters/1517080529348.jpg" group-title="ENTRETENIMIENTO ",Caracol
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3165
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://51.222.152.107:81/posters/1502753037235.jpg" group-title="INFANTILES ",Cartoon Network
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3039
-#EXTINF:-1 tvg-id="" tvg-name="Chile - CDF Estadio" tvg-logo="" group-title="DEPORTES ",Chile - CDF Estadio
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3241
-#EXTINF:-1 tvg-id="" tvg-name="Chile - CDF Premium" tvg-logo="" group-title="DEPORTES ",Chile - CDF Premium
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3242
-#EXTINF:-1 tvg-id="" tvg-name="Chile - CDO Premium" tvg-logo="" group-title="DEPORTES ",Chile - CDO Premium
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3243
-#EXTINF:-1 tvg-id="" tvg-name="Chile - CFD" tvg-logo="" group-title="DEPORTES ",Chile - CFD
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3240
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="http://51.222.152.107:81/posters/1502753048250.jpg" group-title="CINEMA ",Cinecanal
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3040
-#EXTINF:-1 tvg-id="" tvg-name="Cinelatino" tvg-logo="http://51.222.152.107:81/posters/1502829523491.jpg" group-title="CINEMA ",Cinelatino
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3279
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://51.222.152.107:81/posters/1502753073236.jpg" group-title="CINEMA ",Cinemax
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3041
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="DEPORTES ",Claro Sports
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3198
-#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" tvg-logo="http://51.222.152.107:81/posters/1530597664136.jpg" group-title="MEXICO ",CNN en Espanol
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3042
-#EXTINF:-1 tvg-id="" tvg-name="CNN USA" tvg-logo="" group-title="MEXICO ",CNN USA
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3043
-#EXTINF:-1 tvg-id="" tvg-name="Colombia - Win Sports" tvg-logo="" group-title="DEPORTES ",Colombia - Win Sports
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3244
-#EXTINF:-1 tvg-id="" tvg-name="Colombia - Win Sports +" tvg-logo="" group-title="DEPORTES ",Colombia - Win Sports +
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3245
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://51.222.152.107:81/posters/1502753104466.jpg" group-title="ENTRETENIMIENTO ",Comedy Central
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3044
-#EXTINF:-1 tvg-id="" tvg-name="Coraje el Perro Cobarde" tvg-logo="http://51.222.152.107:81/posters/1610693240483.jpg" group-title="24/7 ",Coraje el Perro Cobarde
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3357
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="http://51.222.152.107:81/posters/1502753114512.jpg" group-title="CINEMA ",De Pelicula
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3045
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Clasico" tvg-logo="http://51.222.152.107:81/posters/1618974359150.png" group-title="CINEMA ",De Pelicula Clasico
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3046
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="http://51.222.152.107:81/posters/1596473814534.jpg" group-title="CINEMA ",De Pelicula Plus
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3047
-#EXTINF:-1 tvg-id="" tvg-name="DesafÃƒÂ­o sobre Fuego" tvg-logo="http://51.222.152.107:81/posters/1610693284228.jpg" group-title="24/7 ",DesafÃƒÂ­o sobre Fuego
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3358
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://51.222.152.107:81/posters/1502753127251.jpg" group-title="CULTURALES ",Discovery Channel
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3048
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://51.222.152.107:81/posters/1502753140490.jpg" group-title="CULTURALES ",Discovery Civilization
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3049
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://51.222.152.107:81/posters/1502753156412.jpg" group-title="CULTURALES ",Discovery H&H
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3050
-#EXTINF:-1 tvg-id="" tvg-name="Discovery KIDS" tvg-logo="http://51.222.152.107:81/posters/1502753181376.jpg" group-title="INFANTILES ",Discovery KIDS
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3052
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://51.222.152.107:81/posters/1502753199573.jpg" group-title="CULTURALES ",Discovery Science
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3053
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="http://51.222.152.107:81/posters/1502753212241.jpg" group-title="CULTURALES ",Discovery Theater
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3054
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="http://51.222.152.107:81/posters/1502753223574.jpg" group-title="CULTURALES ",Discovery TLC
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3055
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://51.222.152.107:81/posters/1502753255344.jpg" group-title="CULTURALES ",Discovery Turbo
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3056
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="http://51.222.152.107:81/posters/1502753267386.jpg" group-title="CULTURALES ",Discovery World
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3057
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://51.222.152.107:81/posters/1502753278160.jpg" group-title="INFANTILES ",Disney Channel
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3058
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://51.222.152.107:81/posters/1502753294187.jpg" group-title="INFANTILES ",Disney Junior
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3059
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://51.222.152.107:81/posters/1502753303323.jpg" group-title="INFANTILES ",Disney XD
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3060
-#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="http://51.222.152.107:81/posters/1502753361414.jpg" group-title="ENTRETENIMIENTO ",Distrito Comedia
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3061
-#EXTINF:-1 tvg-id="" tvg-name="Don Gato y su Pandilla" tvg-logo="http://51.222.152.107:81/posters/1610693311265.jpg" group-title="24/7 ",Don Gato y su Pandilla
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3359
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://51.222.152.107:81/posters/1610693333234.jpg" group-title="24/7 ",Dragon Ball
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3360
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="http://51.222.152.107:81/posters/1610693353495.jpg" group-title="24/7 ",Dragon Ball GT
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3361
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="http://51.222.152.107:81/posters/1610693370278.jpg" group-title="24/7 ",Dragon Ball Super
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3362
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://51.222.152.107:81/posters/1610693387238.jpg" group-title="24/7 ",Dragon Ball Z
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3363
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://51.222.152.107:81/posters/1502753372473.jpg" group-title="ENTRETENIMIENTO ",E!
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3062
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://51.222.152.107:81/posters/1502828109216.jpg" group-title="ENTRETENIMIENTO ",E!
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3168
-#EXTINF:-1 tvg-id="" tvg-name="El ChapulÃƒÂ­n Colorado" tvg-logo="http://51.222.152.107:81/posters/1610693405340.jpg" group-title="24/7 ",El ChapulÃƒÂ­n Colorado
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3364
-#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8" tvg-logo="http://51.222.152.107:81/posters/1610693432566.jpg" group-title="24/7 ",El Chavo del 8
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3365
-#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 Animado" tvg-logo="http://51.222.152.107:81/posters/1610693448389.jpg" group-title="24/7 ",El Chavo del 8 Animado
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3354
-#EXTINF:-1 tvg-id="" tvg-name="El Chema" tvg-logo="http://51.222.152.107:81/posters/1610693475272.jpg" group-title="24/7 ",El Chema
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3367
-#EXTINF:-1 tvg-id="" tvg-name="El Correcaminos" tvg-logo="http://51.222.152.107:81/posters/1610693494352.jpg" group-title="24/7 ",El Correcaminos
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3368
-#EXTINF:-1 tvg-id="" tvg-name="El Financiero Bloomberg" tvg-logo="http://51.222.152.107:81/posters/1502753388248.jpg" group-title="MEXICO ",El Financiero Bloomberg
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3063
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="http://51.222.152.107:81/posters/1502753401137.jpg" group-title="ENTRETENIMIENTO ",El Gourmet
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3064
-#EXTINF:-1 tvg-id="" tvg-name="El SeÃƒÂ±or de los Cielos" tvg-logo="http://51.222.152.107:81/posters/1610693508531.jpg" group-title="24/7 ",El SeÃƒÂ±or de los Cielos
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3369
-#EXTINF:-1 tvg-id="" tvg-name="ESPN +" tvg-logo="http://51.222.152.107:81/posters/1502753422333.jpg" group-title="DEPORTES ",ESPN +
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3065
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://51.222.152.107:81/posters/1503464196485.jpg" group-title="DEPORTES ",ESPN 1
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3066
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://51.222.152.107:81/posters/1502753463562.jpg" group-title="DEPORTES ",ESPN 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3067
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://51.222.152.107:81/posters/1502753472346.jpg" group-title="DEPORTES ",ESPN 3
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3068
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="http://51.222.152.107:81/posters/1502828719391.jpg" group-title="DEPORTES ",ESPN Deportes
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3203
-#EXTINF:-1 tvg-id="" tvg-name="ESPN U" tvg-logo="" group-title="DEPORTES ",ESPN U
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3069
-#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="http://51.222.152.107:81/posters/1570032392287.jpg" group-title="ENTRETENIMIENTO ",Estrella TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3170
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://51.222.152.107:81/posters/1570029883137.jpg" group-title="DEPORTES ",Eurosport 1
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3221
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://51.222.152.107:81/posters/1570029934187.jpg" group-title="DEPORTES ",Eurosport 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3222
-#EXTINF:-1 tvg-id="" tvg-name="Familia P. Luche" tvg-logo="http://51.222.152.107:81/posters/1610693536500.jpg" group-title="24/7 ",Familia P. Luche
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3370
-#EXTINF:-1 tvg-id="" tvg-name="fh" tvg-logo="" group-title="24/7 ",fh
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3352
-#EXTINF:-1 tvg-id="" tvg-name="Figueirense vs Ponte Preta / 1:00pm" tvg-logo="http://51.222.152.107:81/posters/1611905068381.jpeg" group-title="24/7 ",Figueirense vs Ponte Preta / 1:00pm
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3353
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://51.222.152.107:81/posters/1530596285528.jpg" group-title="DEPORTES ",Food Network
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3070
-#EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="http://51.222.152.107:81/posters/1502753519477.jpg" group-title="MEXICO ",Foro TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3071
-#EXTINF:-1 tvg-id="" tvg-name="FOX (Star Channel)" tvg-logo="http://51.222.152.107:81/posters/1502753530268.jpg" group-title="CINEMA ",FOX (Star Channel)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3072
-#EXTINF:-1 tvg-id="" tvg-name="FOX Cinema (Star Cinema)" tvg-logo="http://51.222.152.107:81/posters/1502753602562.jpg" group-title="CINEMA ",FOX Cinema (Star Cinema)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3074
-#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy (Star Comedy)" tvg-logo="" group-title="CINEMA ",FOX Comedy (Star Comedy)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3076
-#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes" tvg-logo="http://51.222.152.107:81/posters/1502828808242.jpg" group-title="DEPORTES ",FOX Deportes
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3204
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family (Star Fun)" tvg-logo="" group-title="CINEMA ",FOX Family (Star Fun)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3077
-#EXTINF:-1 tvg-id="" tvg-name="FOX Life (Star Life)" tvg-logo="http://51.222.152.107:81/posters/1502753654516.jpg" group-title="CINEMA ",FOX Life (Star Life)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3078
-#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Action (Star Action)" tvg-logo="http://51.222.152.107:81/posters/1502753549312.jpg" group-title="CINEMA ",FOX Premium Action (Star Action)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3073
-#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Movies (Star Hits)" tvg-logo="http://51.222.152.107:81/posters/1502753666470.jpg" group-title="CINEMA ",FOX Premium Movies (Star Hits)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3079
-#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Series (Star Series)" tvg-logo="" group-title="CINEMA ",FOX Premium Series (Star Series)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3080
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1" tvg-logo="http://51.222.152.107:81/posters/1502753675525.jpg" group-title="DEPORTES ",FOX Sports 1
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3081
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="http://51.222.152.107:81/posters/1502753687477.jpg" group-title="DEPORTES ",FOX Sports 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3082
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="http://51.222.152.107:81/posters/1505364166295.jpg" group-title="DEPORTES ",FOX Sports 3
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3083
-#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="http://51.222.152.107:81/posters/1610693562305.jpg" group-title="24/7 ",Futurama
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3371
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://51.222.152.107:81/posters/1502753699339.jpg" group-title="CINEMA ",FX
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3084
-#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="" group-title="CINEMA ",FXM
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3085
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones" tvg-logo="http://51.222.152.107:81/posters/1610693579240.jpg" group-title="24/7 ",Game of Thrones
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3372
-#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="http://51.222.152.107:81/posters/1502753724290.jpg" group-title="DEPORTES ",Garage TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3087
-#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="http://51.222.152.107:81/posters/1502828207428.jpg" group-title="ENTRETENIMIENTO ",Garage TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3176
-#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="http://51.222.152.107:81/posters/1502753735513.jpg" group-title="CINEMA ",Glitz
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3088
-#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="http://51.222.152.107:81/posters/1502828219513.jpg" group-title="CINEMA ",Glitz
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3177
-#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="http://51.222.152.107:81/posters/1502753748224.jpg" group-title="CINEMA ",Golden
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3089
-#EXTINF:-1 tvg-id="" tvg-name="Golden EDGE" tvg-logo="http://51.222.152.107:81/posters/1502753859324.jpg" group-title="CINEMA ",Golden EDGE
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3090
-#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="http://51.222.152.107:81/posters/1596473612363.jpg" group-title="CINEMA ",Golden Plus
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3091
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="" group-title="CINEMA ",Golden Premier
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3092
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel Latinoamerica" tvg-logo="http://51.222.152.107:81/posters/1530593422365.jpg" group-title="DEPORTES ",Golf Channel Latinoamerica
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3093
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel Latinoamerica" tvg-logo="http://51.222.152.107:81/posters/1502828852390.jpg" group-title="DEPORTES ",Golf Channel Latinoamerica
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3208
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://51.222.152.107:81/posters/1502755052281.jpg" group-title="CULTURALES ",H2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3258
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://51.222.152.107:81/posters/1502829744276.jpg" group-title="CINEMA ",HBO
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3296
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://51.222.152.107:81/posters/1501809499341.jpg" group-title="CINEMA ",HBO 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3297
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://51.222.152.107:81/posters/1501809803170.jpg" group-title="CINEMA ",HBO Family
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3298
-#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="" group-title="CINEMA ",HBO Mundi
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3299
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://51.222.152.107:81/posters/1502829725198.jpg" group-title="CINEMA ",HBO Plus
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3300
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="http://51.222.152.107:81/posters/1496809663482.jpg" group-title="CINEMA ",HBO POP
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3304
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://51.222.152.107:81/posters/1527221651451.jpg" group-title="CINEMA ",HBO Signature
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3301
-#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="http://51.222.152.107:81/posters/1502829809534.jpg" group-title="CINEMA ",HBO Xtreme
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3302
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="ENTRETENIMIENTO ",HGTV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3094
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="ENTRETENIMIENTO ",HGTV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3259
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://51.222.152.107:81/posters/1505362463569.jpg" group-title="CULTURALES ",History
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3095
-#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="http://51.222.152.107:81/posters/1502753872500.jpg" group-title="ENTRETENIMIENTO ",Hola TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3096
-#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="http://51.222.152.107:81/posters/1502828231178.jpg" group-title="ENTRETENIMIENTO ",Hola TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3178
-#EXTINF:-1 tvg-id="" tvg-name="HÃƒÂ©roes en Pijamas" tvg-logo="http://51.222.152.107:81/posters/1610693601143.jpg" group-title="24/7 ",HÃƒÂ©roes en Pijamas
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3373
-#EXTINF:-1 tvg-id="" tvg-name="I.Sat" tvg-logo="http://51.222.152.107:81/posters/1502753884438.jpg" group-title="CINEMA ",I.Sat
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3099
-#EXTINF:-1 tvg-id="" tvg-name="I.Sat" tvg-logo="http://51.222.152.107:81/posters/1502829796512.jpg" group-title="CINEMA ",I.Sat
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3303
-#EXTINF:-1 tvg-id="" tvg-name="Imagen Television" tvg-logo="" group-title="MEXICO ",Imagen Television
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3097
-#EXTINF:-1 tvg-id="" tvg-name="Imagen Television" tvg-logo="http://51.222.152.107:81/posters/1502754692162.jpg" group-title="MEXICO ",Imagen Television
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3148
-#EXTINF:-1 tvg-id="" tvg-name="Ingenio TV" tvg-logo="" group-title="MEXICO ",Ingenio TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3098
-#EXTINF:-1 tvg-id="" tvg-name="Ingenio TV" tvg-logo="" group-title="MEXICO ",Ingenio TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3149
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="http://51.222.152.107:81/posters/1502753168445.jpg" group-title="CULTURALES ",Investigation Discovery
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3051
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Papel" tvg-logo="http://51.222.152.107:81/posters/1610693624511.jpg" group-title="24/7 ",La Casa de Papel
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3374
-#EXTINF:-1 tvg-id="" tvg-name="La Pantera Rosa" tvg-logo="http://51.222.152.107:81/posters/1610693650389.jpg" group-title="24/7 ",La Pantera Rosa
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3375
-#EXTINF:-1 tvg-id="" tvg-name="La Rosa de Guadalupe" tvg-logo="http://51.222.152.107:81/posters/1610693680481.jpg" group-title="24/7 ",La Rosa de Guadalupe
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3376
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="http://51.222.152.107:81/posters/1502753896528.jpg" group-title="MEXICO ",Las Estrellas
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3100
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="http://51.222.152.107:81/posters/1502754703493.jpg" group-title="MEXICO ",Las Estrellas
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3150
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://51.222.152.107:81/posters/1502753921213.jpg" group-title="CINEMA ",Lifetime
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3101
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://51.222.152.107:81/posters/1502828244268.jpg" group-title="CINEMA ",Lifetime
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3179
-#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra" tvg-logo="http://51.222.152.107:81/posters/1610693701165.jpg" group-title="24/7 ",Los Picapiedra
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3377
-#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos" tvg-logo="http://51.222.152.107:81/posters/1610693720422.jpg" group-title="24/7 ",Los Pitufos
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3342
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="http://51.222.152.107:81/posters/1610693752246.jpg" group-title="24/7 ",Los Simpsons
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3331
-#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de enmedio" tvg-logo="http://51.222.152.107:81/posters/1610693772466.jpg" group-title="24/7 ",Malcolm el de enmedio
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3332
-#EXTINF:-1 tvg-id="" tvg-name="Maria Vision" tvg-logo="http://51.222.152.107:81/posters/1620123481131.jpg" group-title="ENTRETENIMIENTO ",Maria Vision
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3322
-#EXTINF:-1 tvg-id="" tvg-name="Mas chic" tvg-logo="http://51.222.152.107:81/posters/1502753937532.jpg" group-title="CINEMA ",Mas chic
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3102
-#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="http://51.222.152.107:81/posters/1502828258319.jpg" group-title="CINEMA ",Mas Chic
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3180
-#EXTINF:-1 tvg-id="" tvg-name="Mazinger Z" tvg-logo="http://51.222.152.107:81/posters/1610693797311.jpg" group-title="24/7 ",Mazinger Z
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3333
-#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-logo="http://51.222.152.107:81/posters/1502753948468.jpg" group-title="MEXICO ",Milenio
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3103
-#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-logo="http://51.222.152.107:81/posters/1502830423165.jpg" group-title="MEXICO ",Milenio
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3328
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="http://51.222.152.107:81/posters/1570030425453.jpg" group-title="DEPORTES ",Movistar Deportes
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3223
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2" tvg-logo="http://51.222.152.107:81/posters/1502828900178.jpg" group-title="DEPORTES ",Movistar Deportes 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3224
-#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-logo="http://51.222.152.107:81/posters/1570030478467.jpg" group-title="DEPORTES ",Movistar F1
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3225
-#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 TV" tvg-logo="http://51.222.152.107:81/posters/1508822937315.jpg" group-title="DEPORTES ",Movistar F1 TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3209
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="http://51.222.152.107:81/posters/1508822722574.jpg" group-title="DEPORTES ",Movistar Golf
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3210
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="http://51.222.152.107:81/posters/1570030506172.jpg" group-title="DEPORTES ",Movistar Golf
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3226
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones" tvg-logo="http://51.222.152.107:81/posters/1570030400370.jpg" group-title="DEPORTES ",Movistar Liga de Campeones
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3227
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="http://51.222.152.107:81/posters/1610693822285.jpg" group-title="24/7 ",Mr. Bean
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3334
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://51.222.152.107:81/posters/1502753958148.jpg" group-title="MUSICA ",MTV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3104
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="http://51.222.152.107:81/posters/1502754842434.jpg" group-title="MUSICA ",MTV Hits
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3105
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="http://51.222.152.107:81/posters/1502753995393.jpg" group-title="MUSICA ",MTV Live
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3106
-#EXTINF:-1 tvg-id="" tvg-name="Multimedios MTY" tvg-logo="http://51.222.152.107:81/posters/1527121177168.jpg" group-title="MEXICO ",Multimedios MTY
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3152
-#EXTINF:-1 tvg-id="" tvg-name="Multimedios Plus" tvg-logo="http://51.222.152.107:81/posters/1502754060314.jpg" group-title="MEXICO ",Multimedios Plus
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3107
-#EXTINF:-1 tvg-id="" tvg-name="Multimedios Plus" tvg-logo="http://51.222.152.107:81/posters/1502754738207.jpg" group-title="MEXICO ",Multimedios Plus
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3151
-#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="http://51.222.152.107:81/posters/1610693846201.jpg" group-title="24/7 ",Naruto
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3335
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="http://51.222.152.107:81/posters/1502754070170.jpg" group-title="CULTURALES ",NatGeo
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3108
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo KIDS" tvg-logo="" group-title="INFANTILES ",NatGeo KIDS
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3109
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="http://51.222.152.107:81/posters/1502754081404.jpg" group-title="CULTURALES ",NatGeo Wild
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3110
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="http://51.222.152.107:81/posters/1508821010576.jpg" group-title="DEPORTES ",NFL Network
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3211
-#EXTINF:-1 tvg-id="" tvg-name="Nick 2 (TeenNick)" tvg-logo="" group-title="INFANTILES ",Nick 2 (TeenNick)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3112
-#EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="http://51.222.152.107:81/posters/1502754098215.jpg" group-title="INFANTILES ",Nick JR
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3113
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://51.222.152.107:81/posters/1502754090498.jpg" group-title="INFANTILES ",Nickelodeon
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3111
-#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="http://51.222.152.107:81/posters/1502754110427.jpg" group-title="INFANTILES ",Nicktoons
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3114
-#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="" group-title="DEPORTES ",Outdoor Channel
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3115
-#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="http://51.222.152.107:81/posters/1502828924200.jpg" group-title="DEPORTES ",Outdoor Channel
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3212
-#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el PatrÃƒÂ³n del Mal" tvg-logo="http://51.222.152.107:81/posters/1610693874475.jpg" group-title="24/7 ",Pablo Escobar, el PatrÃƒÂ³n del Mal
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3336
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="http://51.222.152.107:81/posters/1530591231314.jpg" group-title="CINEMA ",Paramount Channel
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3116
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="http://51.222.152.107:81/posters/1527223202501.jpg" group-title="ENTRETENIMIENTO ",Pasiones
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3181
-#EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="http://51.222.152.107:81/posters/1610693894561.jpg" group-title="24/7 ",Pinky y Cerebro
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3337
-#EXTINF:-1 tvg-id="" tvg-name="PokÃƒÂ©mon" tvg-logo="http://51.222.152.107:81/posters/1610693920555.jpg" group-title="24/7 ",PokÃƒÂ©mon
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3338
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="http://51.222.152.107:81/posters/1502828302331.jpg" group-title="ENTRETENIMIENTO ",RCN
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3182
-#EXTINF:-1 tvg-id="" tvg-name="RCN Nuestra Tele Internacional" tvg-logo="" group-title="ENTRETENIMIENTO ",RCN Nuestra Tele Internacional
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3156
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://51.222.152.107:81/posters/1502828949235.jpg" group-title="DEPORTES ",Real Madrid TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3228
-#EXTINF:-1 tvg-id="" tvg-name="Sailor Moon" tvg-logo="http://51.222.152.107:81/posters/1610693941265.jpg" group-title="24/7 ",Sailor Moon
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3339
-#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7 ",Scooby Doo
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3340
-#EXTINF:-1 tvg-id="" tvg-name="SEC ESPN Network" tvg-logo="http://51.222.152.107:81/posters/1530598422296.jpg" group-title="DEPORTES ",SEC ESPN Network
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3213
-#EXTINF:-1 tvg-id="" tvg-name="Shark Tank MÃƒÂ©xico Temporada 1" tvg-logo="http://51.222.152.107:81/posters/1610693983199.jpg" group-title="24/7 ",Shark Tank MÃƒÂ©xico Temporada 1
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3341
-#EXTINF:-1 tvg-id="" tvg-name="Shark Tank MÃƒÂ©xico Temporada 2" tvg-logo="http://51.222.152.107:81/posters/1610694005289.jpg" group-title="24/7 ",Shark Tank MÃƒÂ©xico Temporada 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3330
-#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="http://51.222.152.107:81/posters/1610694028214.jpg" group-title="24/7 ",Smallville
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3343
-#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="http://51.222.152.107:81/posters/1502754145178.jpg" group-title="CINEMA ",Sony
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3118
-#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="http://51.222.152.107:81/posters/1610694050515.jpg" group-title="24/7 ",South Park
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3344
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://51.222.152.107:81/posters/1502754169326.jpg" group-title="CINEMA ",Space
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3119
-#EXTINF:-1 tvg-id="" tvg-name="Spiderman" tvg-logo="http://51.222.152.107:81/posters/1610694070241.jpg" group-title="24/7 ",Spiderman
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3345
-#EXTINF:-1 tvg-id="" tvg-name="Star Classics (Fox Premium Classics)" tvg-logo="http://51.222.152.107:81/posters/1502753643537.jpg" group-title="CINEMA ",Star Classics (Fox Premium Classics)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3075
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things" tvg-logo="http://51.222.152.107:81/posters/1610694093497.jpg" group-title="24/7 ",Stranger Things
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3346
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="http://51.222.152.107:81/posters/1502829861361.jpg" group-title="CINEMA ",Studio Universal
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3307
-#EXTINF:-1 tvg-id="" tvg-name="Sudamerica - DirecTV Sports" tvg-logo="" group-title="DEPORTES ",Sudamerica - DirecTV Sports
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3246
-#EXTINF:-1 tvg-id="" tvg-name="Sudamerica - DirecTV Sports +" tvg-logo="" group-title="DEPORTES ",Sudamerica - DirecTV Sports +
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3248
-#EXTINF:-1 tvg-id="" tvg-name="Sudamerica - DirecTV Sports 2" tvg-logo="" group-title="DEPORTES ",Sudamerica - DirecTV Sports 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3247
-#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel" tvg-logo="http://51.222.152.107:81/posters/1530596052274.jpg" group-title="CINEMA ",Sundance Channel
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3121
-#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel" tvg-logo="http://51.222.152.107:81/posters/1493248891520.jpg" group-title="CINEMA ",Sundance Channel
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3308
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="http://51.222.152.107:81/posters/1502754236483.jpg" group-title="CINEMA ",SyFy
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3122
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="http://51.222.152.107:81/posters/1502829872259.jpg" group-title="CINEMA ",SyFy
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3309
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://51.222.152.107:81/posters/1502754245404.jpg" group-title="CINEMA ",TBS
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3123
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://51.222.152.107:81/posters/1502828327589.jpg" group-title="CINEMA ",TBS
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3184
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://51.222.152.107:81/posters/1502754255428.jpg" group-title="CINEMA ",TCM
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3124
-#EXTINF:-1 tvg-id="" tvg-name="Teleformula" tvg-logo="http://51.222.152.107:81/posters/1502754264274.jpg" group-title="MEXICO ",Teleformula
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3125
-#EXTINF:-1 tvg-id="" tvg-name="Teleformula" tvg-logo="http://51.222.152.107:81/posters/1502754769436.jpg" group-title="MEXICO ",Teleformula
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3153
-#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="http://51.222.152.107:81/posters/1502754274472.jpg" group-title="MUSICA ",Telehit
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3126
-#EXTINF:-1 tvg-id="" tvg-name="Telehit Urbano (Telehit Musica)" tvg-logo="http://51.222.152.107:81/posters/1502754130503.jpg" group-title="MUSICA ",Telehit Urbano (Telehit Musica)
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3117
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="http://51.222.152.107:81/posters/1502754283527.jpg" group-title="ENTRETENIMIENTO ",Telemundo Internacional
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3127
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="http://51.222.152.107:81/posters/1502828341237.jpg" group-title="ENTRETENIMIENTO ",Telemundo Internacional
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3185
-#EXTINF:-1 tvg-id="" tvg-name="Televisa Monterrey" tvg-logo="" group-title="MEXICO ",Televisa Monterrey
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3128
-#EXTINF:-1 tvg-id="" tvg-name="Televisa Monterrey" tvg-logo="" group-title="MEXICO ",Televisa Monterrey
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3154
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead" tvg-logo="http://51.222.152.107:81/posters/1610694115527.jpg" group-title="24/7 ",The Walking Dead
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3347
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="http://51.222.152.107:81/posters/1610694138471.jpg" group-title="24/7 ",Thundercats
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3348
-#EXTINF:-1 tvg-id="" tvg-name="Tlnovelas" tvg-logo="http://51.222.152.107:81/posters/1502754306306.jpg" group-title="MEXICO ",Tlnovelas
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3129
-#EXTINF:-1 tvg-id="" tvg-name="Tlnovelas" tvg-logo="http://51.222.152.107:81/posters/1502828366290.jpg" group-title="MEXICO ",Tlnovelas
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3186
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://51.222.152.107:81/posters/1502754332530.jpg" group-title="CINEMA ",TNT
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3130
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://51.222.152.107:81/posters/1502829917358.jpg" group-title="CINEMA ",TNT
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3311
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://51.222.152.107:81/posters/1502754343528.jpg" group-title="CINEMA ",TNT Series
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3131
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://51.222.152.107:81/posters/1502828379582.jpg" group-title="CINEMA ",TNT Series
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3187
-#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7 ",Tom y Jerry
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3349
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://51.222.152.107:81/posters/1502754353314.jpg" group-title="INFANTILES ",Tooncast
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3132
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://51.222.152.107:81/posters/1502829416567.jpg" group-title="INFANTILES ",Tooncast
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3277
-#EXTINF:-1 tvg-id="" tvg-name="Toros TV" tvg-logo="http://51.222.152.107:81/posters/1570030537196.jpg" group-title="DEPORTES ",Toros TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3229
-#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="http://51.222.152.107:81/posters/1502754362141.jpg" group-title="CINEMA ",TruTV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3133
-#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="http://51.222.152.107:81/posters/1502828392397.jpg" group-title="CINEMA ",TruTV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3188
-#EXTINF:-1 tvg-id="" tvg-name="TUDN MX" tvg-logo="http://51.222.152.107:81/posters/1563753178407.jpg" group-title="DEPORTES ",TUDN MX
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3214
-#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="http://51.222.152.107:81/posters/1563753621308.jpg" group-title="DEPORTES ",TUDN USA
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3215
-#EXTINF:-1 tvg-id="" tvg-name="TVC" tvg-logo="http://51.222.152.107:81/posters/1530596686135.jpg" group-title="FULL CONTENIDO",TVC
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3155
-#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="" group-title="DEPORTES ",TVC Deportes
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3134
-#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="http://51.222.152.107:81/posters/1502829015276.jpg" group-title="DEPORTES ",TVC Deportes
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3216
-#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="http://51.222.152.107:81/posters/1502409146144.jpg" group-title="ENTRETENIMIENTO ",TVE
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3135
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="http://51.222.152.107:81/posters/1493243990583.jpg" group-title="DEPORTES ",TyC Sports
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3217
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="http://51.222.152.107:81/posters/1561830268485.jpg" group-title="DEPORTES ",UFC Fight Pass
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3218
-#EXTINF:-1 tvg-id="" tvg-name="Una Familia de 10" tvg-logo="http://51.222.152.107:81/posters/1610694177479.jpg" group-title="24/7 ",Una Familia de 10
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3350
-#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="http://51.222.152.107:81/posters/1502754375168.jpg" group-title="MEXICO ",Unicable
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3136
-#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="http://51.222.152.107:81/posters/1502828403504.jpg" group-title="ENTRETENIMIENTO ",Unicable
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3189
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="http://51.222.152.107:81/posters/1530594935541.jpg" group-title="CINEMA ",Universal Channel
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3137
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="http://51.222.152.107:81/posters/1502829931159.jpg" group-title="CINEMA ",Universal Channel
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3312
-#EXTINF:-1 tvg-id="" tvg-name="Univision 41" tvg-logo="http://51.222.152.107:81/posters/1502828414396.jpg" group-title="ENTRETENIMIENTO ",Univision 41
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3190
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://51.222.152.107:81/posters/1502754453409.jpg" group-title="MUSICA ",VH1
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3138
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Classics" tvg-logo="http://51.222.152.107:81/posters/1502754481403.jpg" group-title="MUSICA ",VH1 Classics
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3139
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="http://51.222.152.107:81/posters/1530591750450.jpg" group-title="CINEMA ",Warner
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3140
-#EXTINF:-1 tvg-id="" tvg-name="WinSports" tvg-logo="http://51.222.152.107:81/posters/1527223825150.jpg" group-title="DEPORTES ",WinSports
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3219
-#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="http://51.222.152.107:81/posters/1610694215511.jpg" group-title="24/7 ",X-Men
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3351
-#EXTINF:-1 tvg-id="" tvg-name="[HD:] CULTURA - DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURALES ",[HD:] CULTURA - DISCOVERY THEATER
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3474
-#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES -  ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DEPORTES ",[HD:] DEPORTES -  ESPN 1
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3437
-#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - BEIN SPORT" tvg-logo="" group-title="FULL CONTENIDO",[HD:] DEPORTES - BEIN SPORT
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3543
-#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES ",[HD:] DEPORTES - ESPN 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3439
-#EXTINF:-1 tvg-id="" tvg-name="[HD:] DEPORTES - ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES ",[HD:] DEPORTES - ESPN EXTRA
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3438
-#EXTINF:-1 tvg-id="" tvg-name="[HD:] ENTRE - UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO ",[HD:] ENTRE - UNICABLE
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3464
-#EXTINF:-1 tvg-id="" tvg-name="[HD:] ENTRETE - ANTENA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="ENTRETENIMIENTO ",[HD:] ENTRETE - ANTENA 3
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3478
-#EXTINF:-1 tvg-id="" tvg-name="[HD:] MEXICO - MULTIMEDIOS MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO ",[HD:] MEXICO - MULTIMEDIOS MTY
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3440
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Amc_theatres_logo.svg/1200px-Amc_theatres_logo.svg.png" group-title="CINEMA ",[SD:] CINE - AMC
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3443
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - CINE LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINEMA ",[SD:] CINE - CINE LATINO
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3447
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINEMA ",[SD:] CINE - CINECANAL
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3445
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINEMA ",[SD:] CINE - CINEMAX
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3444
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="CINEMA ",[SD:] CINE - FOX ACCION
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3453
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Cinema_HD.png" group-title="CINEMA ",[SD:] CINE - FOX CINEMA
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3454
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/2215px-Star_Fun_2020.svg.png" group-title="CINEMA ",[SD:] CINE - FOX FAMILY
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3412
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX FAMYLY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/FOX_Family_HD.png" group-title="CINEMA ",[SD:] CINE - FOX FAMYLY
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3456
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="CINEMA ",[SD:] CINE - FOX MOVIES
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3457
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - FOX SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Series_HD.png" group-title="CINEMA ",[SD:] CINE - FOX SERIES
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3458
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - GOLDEN PREMIER" tvg-logo="https://i.ibb.co/0rBBVV9/Sin-t-tulo-1.png" group-title="CINEMA ",[SD:] CINE - GOLDEN PREMIER
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3452
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO 1" tvg-logo="https://i.ibb.co/VBzKGK3/Sin-t-tulo-1.png" group-title="CINEMA ",[SD:] CINE - HBO 1
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3459
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINEMA ",[SD:] CINE - HBO 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3410
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1651px-HBO_Family.svg.png" group-title="CINEMA ",[SD:] CINE - HBO FAMILY
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3411
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO Plus" tvg-logo="https://i.ibb.co/mCtBKcV/Sin-t-tulo-1.png" group-title="CINEMA ",[SD:] CINE - HBO Plus
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3460
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1894px-HBO_Xtreme.svg.png" group-title="CINEMA ",[SD:] CINE - HBO XTREME
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3413
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - MC" tvg-logo="https://i.ibb.co/488gdKy/Sin-t-tulo-1.png" group-title="CINEMA ",[SD:] CINE - MC
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3467
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - MULTICINEMA" tvg-logo="" group-title="FULL CONTENIDO",[SD:] CINE - MULTICINEMA
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3547
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="CINEMA ",[SD:] CINE - MULTIPREMIER
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3468
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - PARAMOOUNT" tvg-logo="https://i.ibb.co/TvmFx17/Sin-t-tulo-1.png" group-title="CINEMA ",[SD:] CINE - PARAMOOUNT
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3449
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="CINEMA ",[SD:] CINE - TNT
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3409
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE -FOX CLASSICS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/FOX_Classics_HD.png" group-title="CINEMA ",[SD:] CINE -FOX CLASSICS
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3455
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE -SPACE MX" tvg-logo="http://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="CINEMA ",[SD:] CINE -SPACE MX
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3419
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2181px-2018_Animal_Planet_logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - ANIMAL PLANET
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3397
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - DISCOVERY CHANNEL
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3396
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CULTURALES ",[SD:] CULTURA - DISCOVERY H&H
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3471
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="CULTURALES ",[SD:] CULTURA - DISCOVERY ID
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3472
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/300px-TLC_Logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - DISCOVERY TLC
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3473
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - DISCOVERY TURBO
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3470
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURALES ",[SD:] CULTURA - H2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3475
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1220px-History_Logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - HISTORY CHANNEL
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3394
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - NATGEO WILD" tvg-logo="" group-title="FULL CONTENIDO",[SD:] CULTURA - NATGEO WILD
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3548
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - NATIONAL GEOGRAPHIC
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3395
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - NET GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="CULTURALES ",[SD:] CULTURA - NET GEO
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3418
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - BEIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES ",[SD:] DEPORTES - BEIN SPORT
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3480
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - CLARO SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - CLARO SPORT
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3407
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - ESPN
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3406
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - ESPN 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3405
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - ESPN 3
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3404
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - ESPN DEPORTES
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3417
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - FOX SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - FOX SPORT 1
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3482
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - FOX SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - FOX SPORT 2
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3483
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - FOX SPORT 3
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3436
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - MLB" tvg-logo="https://i.ibb.co/VLG8mSm/Sin-t-tulo-1.png" group-title="DEPORTES ",[SD:] DEPORTES - MLB
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3433
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] DEPORTES - NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script.svg/1920px-NBA_script.svg.png" group-title="DEPORTES ",[SD:] DEPORTES - NBA
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3434
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRE - AZ MUNDO" tvg-logo="https://i.ibb.co/x1k1WKh/Sin-t-tulo-1.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRE - AZ MUNDO
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3462
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRE - GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRE - GALAVISION
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3466
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRE - LIFETIME" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRE - LIFETIME
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3463
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRE - TELENOVELA PR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRE - TELENOVELA PR
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3469
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRE - UNIMAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRE - UNIMAS
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3465
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRET- FILM ART" tvg-logo="" group-title="ENTRETENIMIENTO ",[SD:] ENTRET- FILM ART
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3546
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - ATRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRETE - ATRES
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3428
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - AZ CINEMA" tvg-logo="" group-title="FULL CONTENIDO",[SD:] ENTRETE - AZ CINEMA
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3545
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRETE - COMEDY CENTRAL
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3393
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/398px-E%21_Logo_2012.svg.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRETE - E!
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3392
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - HOLA TV" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/hola-concurso.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRETE - HOLA TV
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3408
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - ISAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="ENTRETENIMIENTO ",[SD:] ENTRETE - ISAT
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3448
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] ENTRETE - START LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="ENTRETENIMIENTO ",[SD:] ENTRETE - START LIFE
-http://gratis.shortgod.com/shortgodpe03/tv1.php?c=3450
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/1.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/734.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="HD",A&E HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/474.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico",A+
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/406.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España",A3Series
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/444.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Noticias",ADN 40
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/447.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes",Afizzionados
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/878.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/426.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/183.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="España",AMC ES
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/715.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="HD",AMC HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/475.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru",America
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/780.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura",Animal Planet
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/3.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="HD",Animal Planet HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/633.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/677.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Anime 24H
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/269.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España",Antena 3
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/298.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/146.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/804.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN (ES)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/713.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="HD",AXN HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/476.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN WHITE (ES)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/714.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes",AyM Sports
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/148.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="Peliculas",Az Cinema
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/186.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="Entretenimiento",Az Clic
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/165.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Entretenimiento",Az Corazón
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/166.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="HD",Az Corazón HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/834.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="Mexico",Azteca 1
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/4.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="HD",Azteca 1 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/634.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="Mexico",Azteca 7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/5.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="HD",Azteca 7 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/635.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Infantiles",Baby TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/7.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica",Bandamax
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/8.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="HD",Bandamax HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/833.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",Barbie 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/788.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="HD",Bein HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/763.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes",BeinSports
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/753.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="HD",BeinSports HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/9.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes",BeinSports Ñ
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/761.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="HD",BeinSports Ñ HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/376.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7",Bleach 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/883.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/518.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Bolivia",Bolivision
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/783.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Entretenimiento",Breaking Bad 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/846.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",Brickleberry 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/789.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/427.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal2televicentro.png" group-title="Nicaragua",Canal 2 Televicentro
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/211.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Mexico",Canal 5
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/14.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Honduras",Canal 5 Honduras
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/773.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico",Canal de las Estrellas
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/411.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico",Canal de las Estrellas Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/736.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="HD",Canal de las Estrellas HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/636.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="Mexico",Canal Once
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/15.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="España",Canal+ Accion
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/364.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes",Canal+ Toros
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/369.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Candy Candy 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/808.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/428.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png" group-title="Musica",Capital TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/205.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia",Caracol
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/391.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Entretenimiento",Caracol Internacional
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/290.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/17.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/737.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="HD",Cartoon Network HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/637.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="Infantiles",Cartoonito (Boomerang)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/11.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="HD",Cartoonito (Boomerang) HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/824.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="Infantiles",Cartoonito Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/735.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/casocerrado.png" group-title="24/7",Caso Cerrado 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/907.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7",CatDog 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/785.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantiles",CBeebies
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/13.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes",CDF Premium
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/318.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="HD",CDF Premium HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/725.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Deportes",CDN Sportsmax
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/206.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png" group-title="Deportes",CDO
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/513.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes",CDO Premium
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/401.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/418.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7",Chespirito 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/417.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" group-title="Colombia",CHV Chilevision
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/198.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/699.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Accion HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/706.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion Sagas
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/700.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Accion Sagas HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/707.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 1
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/695.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 1 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/914.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/696.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 2 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/915.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Ficcion/Fantasia 1
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/709.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Ficcion/Fantasia 2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/710.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Ficcion/Fantasia HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/712.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Infantil
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/687.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Infantil HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/702.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Infantil Sagas
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/694.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Infantil Sagas HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/703.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",Cine Latino
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/295.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Marvel
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/697.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Marvel HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/701.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Romance
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/689.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Romance HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/705.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Suspenso
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/912.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Terror
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/693.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Terror HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/704.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Zombis
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/688.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/18.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/738.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="HD",Cinecanal HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/479.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/20.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/739.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="HD",Cinemax HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/638.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Deportes",Claro Sports
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/328.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="Noticias",CNN en Español
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/136.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/135.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/740.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="España",Comedy Central (ES)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/719.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="HD",Comedy Central HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/480.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/519.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="España",Crime Investigation (ES)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/720.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/csi_miami.png" group-title="24/7",CSI: Miami 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/908.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Chile",CTNI
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/160.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Peliculas",De Película
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/21.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="HD",De Pelicula HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/481.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="Deportes",DeporTV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/139.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/844.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/670.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirectTV Sports
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/259.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Deportes",DirectTV Sports 2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/667.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="HD",DirectTV Sports Peru HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/879.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/22.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/741.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="HD",Discovery Channel HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/639.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Cultura",Discovery Civilization
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/23.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/24.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/742.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="HD",Discovery H&H HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/640.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles",Discovery Kids
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/25.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="HD",Discovery Kids HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/641.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura",Discovery SCI
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/26.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura",Discovery Theater HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/27.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura",Discovery Turbo
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/28.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="HD",Discovery Turbo HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/727.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura",Discovery World
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/187.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles",Disney Channel
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/29.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/30.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/743.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="HD",Disney Junior HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/826.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/31.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/744.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="HD",Disney XD HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/827.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="Entretenimiento",Distrito Comedia
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/32.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" group-title="Musica",Djing Ibiza
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/277.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/521.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/425.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/520.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/424.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/329.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="Entretenimiento",E!
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/33.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="HD",E! HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/483.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/319.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/efektotv.png" group-title="Noticias",Efekto TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/275.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Argentina",El 13 Argentina
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/239.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="Ecuador",El Canal Del Futbol
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/892.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/790.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/400.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/429.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Entretenimiento",El Gallo Claudio 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/845.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Entretenimiento",El Gourmet
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/157.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7",El Increible Mundo de Gumball 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/791.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Argentina",El Nueve
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/772.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/525.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/430.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="Entretenimiento",El Señor de los Cielos 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/820.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Chile",El Trece
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/765.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina",El Trece
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/767.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion",Enlace Juvenil
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/162.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion",Enlace TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/161.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/34.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/35.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="HD",ESPN 2 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/484.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/531.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="HD",ESPN 3 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/485.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN Chile
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/842.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="HD",ESPN HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/486.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN MX
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/530.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/37.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="HD",ESPN Plus HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/487.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento",Estrella TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/177.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes",Eurosport
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/39.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="Religion",EWTN
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/38.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="HD",Film & Arts HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/149.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="HD",Film & Arts HD (EN)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/729.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",FM Hot TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/731.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",Formula 1 TV (F1)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/192.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento",Fox Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/750.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Fox Life Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/746.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/52.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/53.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 Argentina HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/770.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/494.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/528.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports 3
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/54.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="HD",Fox Sports 3 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/839.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports Argentina HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/769.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/493.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/527.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/748.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",Fox Sports Premium
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/512.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="HD",Fox Sports Premium HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/658.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/402.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports Sur 2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/410.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports Sur 3
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/511.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",Futurama 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/793.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/42.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/749.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="HD",FX HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/495.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Peliculas",FXM
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/43.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="HD",FXM HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/488.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico",Gala TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/56.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="HD",Gala TV HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/651.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="Ecuador",Gamavision
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/891.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/515.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Garfield 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/812.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Entretenimiento",Glitz
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/158.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes",Gol Peru
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/686.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/287.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="HD",Gol TV HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/514.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas",Golden
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/57.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas",Golden Edge
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/58.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="HD",Golden HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/496.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/61.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2 Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/760.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/62.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/723.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/300.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2 (EN)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/724.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD",HBO 2 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/732.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD",HBO 2 HD (EN)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/733.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/63.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="HD",HBO HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/654.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/64.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus (EN)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/722.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD",HBO Plus HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/655.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD",HBO Plus Oeste HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/728.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/814.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/841.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="Honduras",HCH
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/779.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/522.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="España",Historia (ES)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/718.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura",History Channel
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/67.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="HD",History Channel HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/642.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="Musica",Hit TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/201.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento",Hola TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/189.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica",HTV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/66.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas",I.Sat
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/153.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico",Imagen Television
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/341.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="HD",Imagen Televisión HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/643.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura",Investigation Discovery
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/68.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="HD",Investigation Discovery HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/825.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/786.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/jorgeelcurioso.png" group-title="24/7",Jorge el Curioso 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/909.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Juce TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",La Casa de Papel 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/403.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lafamiliamonster.png" group-title="24/7",La Familia Monster 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",La Familia PeLuche 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/811.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7",La Hora Pico 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/887.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/671.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7",La Pequeña Lulu 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/792.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/886.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="España",La Sexta
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/326.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="Entretenimiento",La Vaca y ElPollito 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/809.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Uruguay",Latina TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/782.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/888.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento",Lifetime
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/152.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes",Liga de Campeones
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/890.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes",Liga de Campeones 2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/893.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/524.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7",Los 3 Chiflados 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/423.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="Entretenimiento",Los Años Maravillosos 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/810.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="Entretenimiento",Los Padrinos Magicos 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/813.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/669.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7",Los Pinguinos de Madagascar 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/794.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7",Los Pitufos 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/795.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7",Los Reyes de la Colina 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/796.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 1-5) 24/7 
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/894.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 12-17) 24/7 
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/896.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 18-21) 24/7 
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/897.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 22-26) 24/7 
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/898.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 27-30) 24/7 
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/899.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 6-11) 24/7 
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/895.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/357.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7",Los Supersonicos 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/797.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="Entretenimiento",Los Vengadores Unidos 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/818.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",m2o TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/203.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/911.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm HD 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/798.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Entretenimiento",Más chic
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/180.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="HD",Max Prime HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/730.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="Entretenimiento",Max Steel 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/880.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="HD",Max Up HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/659.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Chile",Mega
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/766.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Puerto Rico",Mega
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/784.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="España",Mega (ES)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/352.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peliculas",MegaCine HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/517.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicahd.png" group-title="Musica",Mi Musica HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/172.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Miami TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/251.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png" group-title="Noticias",Milenio HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/140.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Deportes",MLB Network
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/293.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas",Movie Max
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/678.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="España",Movistar Comedia
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/370.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes",Movistar Deportes
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/366.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Deportes",Movistar Deportes 2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/367.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png" group-title="España",Movistar Xtra
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/372.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/431.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/69.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="España",MTV (ES)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/803.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="HD",MTV HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/828.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="Musica",MTV Live
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/70.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/823.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Mexico",Multimedios
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/155.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Peliculas",MultiPremier
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/294.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Music Now
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/690.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="Musica",Music Top
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/691.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mvs.png" group-title="Noticias",MVS Noticias
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/448.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/523.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Cultura",Nat Geo
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/76.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="HD",Nat Geo HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/644.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png" group-title="Infantiles",Nat Geo Kids
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/412.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Cultura",Nat Geo Wild
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/77.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="HD",Nat Geo Wild HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/497.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="Deportes",NBA
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/838.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png" group-title="España",Neox (ES)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/353.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes",NFL Network
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/204.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantiles",Nick
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/78.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="HD",Nick 2 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/646.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="HD",Nick HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/645.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantiles",Nick JR
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/79.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="HD",Nick JR HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/829.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Infantiles",Nick Toons
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/80.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="Infantiles",Nickelodeon
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/184.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" group-title="España",Nova (ES)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/717.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7",One Punch Man 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/661.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina",ORBE 21
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/242.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/416.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas",Paramount
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/200.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="HD",Paramount HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/647.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="HD",Pasiones HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/755.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="Entretenimiento",Patoaventuras 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/819.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="Entretenimiento",Patrulla Canina 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/807.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/787.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="Peru",PERU: América TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/304.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Antares TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/451.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: BHTV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/399.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: La Luz
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/338.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Peru",PERU: Latina
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/317.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Plus TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/337.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: RBC
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/220.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="Peru",PERU: RPP
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/336.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: TV Peru
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/306.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Willax TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/334.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/721.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7",Pocoyo 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/799.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/420.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 1
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/847.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 10
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/856.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 11
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/858.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 12
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/859.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 13
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/860.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 14
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/862.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 15
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/863.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 16
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/864.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 17
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/865.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 18
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/866.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 19
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/861.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 2
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/848.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 20
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/867.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 21 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/868.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 22 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/869.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 23 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/870.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 24 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/871.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 25 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/873.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 26 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/874.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 27 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/876.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 28 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/875.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 29 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/872.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 3
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/849.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 30 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/877.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 4
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/850.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 5
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/851.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 6
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/852.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/853.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 8
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/854.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 9
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/855.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7",Prison Break 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/884.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="Deportes",PX TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/193.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/419.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Mexico",RCG TV Coahuila
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/346.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Colombia",RCN
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/390.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="Colombia",RCN Novelas
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/279.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes",Real Madrid TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/270.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="Musica",Retro Music
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/692.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Musica",Ritmoson Latino
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/154.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rt.png" group-title="HD",RT HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/142.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rtp.png" group-title="Bolivia",RTP
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/781.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7",Sakura Card Captor 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/672.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7",Samurai X 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/663.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7",Scooby Doo 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/422.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png" group-title="Peliculas",Showtime
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/679.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png" group-title="Deportes",SKY Sports MX HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/900.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7",Smallville 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/673.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="Entretenimiento",Sony
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/145.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="HD",Sony HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/498.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7",South Park 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/674.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas",Space
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/83.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas",Space Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/751.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="HD",Space HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/499.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7",Spiderman 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/889.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Entretenimiento",Star
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/45.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" group-title="Peliculas",Star Action
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/46.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" group-title="HD",Star Action HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/490.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_cinema.png" group-title="Peliculas",Star Cinema
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/47.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_classics.png" group-title="Peliculas",Star Classics
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/48.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_comedy.png" group-title="Peliculas",Star Comedy
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/150.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Peliculas",Star Fun
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/49.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="HD",Star Fun HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/840.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="HD",Star HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/489.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Peliculas",Star Hits
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/51.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Peliculas",Star Hits Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/747.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="HD",Star Hits HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/491.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Star Life
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/50.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="HD",Star Life HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/652.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="Entretenimiento",Star Series
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/303.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="Entretenimiento",Star Series Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/745.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="HD",Star Series HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/492.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Peliculas",Starz Cinema
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/680.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_comedy.png" group-title="Peliculas",Starz Comedy
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/681.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Peliculas",Starz Encore Action
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/682.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" group-title="Peliculas",Starz Encore Black
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/683.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Peliculas",Starz Encore Family
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/684.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_hd.png" group-title="HD",Starz HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/685.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Peliculas",Studio Universal
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/84.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="HD",Studio Universal HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/830.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7",Super Campeones 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/432.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas",SyFy
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/151.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas",SyFy Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/758.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="HD",SyFy HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/648.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="Entretenimiento",TBS Very Funny
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/171.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="HD",TBS Very Funny HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/831.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/885.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Peliculas",TCM
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/85.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles",TeenNick
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/882.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Uruguay",Tele
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/778.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/320.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina",Telefe
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/771.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleformula.png" group-title="Entretenimiento",TeleFórmula
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/182.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="Musica",Telehit
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/91.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="HD",Telehit HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/649.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemedellin.png" group-title="Colombia",Telemedellin
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/197.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Entretenimiento",Telemundo
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/92.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="HD",Telemundo HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/660.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" group-title="Ecuador",Televicentro
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/776.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",The Walking Dead 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/800.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Bolivia
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/764.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Paraguay
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/843.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" group-title="Infantiles",Tiin
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/93.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="Entretenimiento",TLC
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/87.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="Entretenimiento",Tlnovelas
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/94.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="HD",Tlnovelas HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/832.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas",TNT
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/179.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas",TNT Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/752.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="España",TNT (ES)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/716.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="HD",TNT HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/500.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento",TNT Series
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/90.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento",TNT Series Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/757.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="HD",TNT Series HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/650.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT Sports
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/509.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT Sports Chile
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/906.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/421.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="Infantiles",Tooncast
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/95.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png" group-title="Colombia",Trece
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/774.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7",TrollHunters 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/662.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="Entretenimiento",TruTV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/96.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="HD",TruTv HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/501.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicahd.png" group-title="Musica",Tu Musica HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/516.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN 
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/698.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN (Pocos Datos)
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/822.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="HD",TUDN HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/801.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN USA
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/86.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="HD",TUDN USA HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/821.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="Deportes",TVC Deportes
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/837.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png" group-title="España",TVE
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/195.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two And a Half Men 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/675.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes",Tyc Sports
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/274.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" group-title="Deportes",UFC Network
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/97.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="Entretenimiento",Unicable
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/98.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="HD",Unicable HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/653.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_cinema.png" group-title="Entretenimiento",Univeral Cinema
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/902.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="Entretenimiento",Univeral Comedy
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/903.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png" group-title="Entretenimiento",Univeral Crime
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/904.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="Entretenimiento",Univeral Premiere
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/901.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="Entretenimiento",Univeral Reality
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/905.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Peliculas",Universal
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/137.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="HD",Universal HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/502.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="Entretenimiento",Univision
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/99.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisiondeportes.png" group-title="Deportes",Univisión Deportes
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/373.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes",Univisión TDN
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/100.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Univision Tlnovelas
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/413.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Colombia",Uno
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/775.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="Musica",VH1
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/101.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="HD",VH1 HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/632.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" group-title="Musica",Video Rola
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/359.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/433.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: Company Radio TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/435.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: Dream TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/439.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Virgin TV
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/315.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" group-title="Uruguay",VTV Uruaguay
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/708.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv2_chile.png" group-title="Chile",VTV2 Chile
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/321.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="Puerto Rico",Wapa PR
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/327.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/102.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel Sur
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/759.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="HD",Warner Channel HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/503.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes",Win Sports
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/292.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Deportes",Win Sports +
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/881.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD",Win Sports + HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/802.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="HD",Win Sports HD
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/754.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="Deportes",WWE Network
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/276.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7",Yu-Gi-Oh! 24/7
+http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/664.m3u8
 
 
 
