@@ -1,11 +1,11 @@
 #EXTM3U
 
 ***EVENTOS***
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", aucas 1
-https://sll.deplayer.pw:30443/edge/ver12c394fc4abe5dbde749e8b6eda22b8a/chunks.m3u8?nimblesessionid=122906&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDIyIDEyOjAzOjU2IEFNJmhhc2hfdmFsdWU9SGJNU2xRWG5BeFdOUWRLR2tuRDM1dz09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona  1
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8?mvk
 
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", aucas 2
-https://g3.fctelerium.com:999/hls/ufeed121-329.ts
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona  2
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?mvk
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", madrid 3
 http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/514.m3u8
