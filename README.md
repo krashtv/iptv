@@ -5,7 +5,7 @@
 https://vkvsd70.mycdn.me/hls/2475373103828.m3u8/sig/pdDJVcTI4R4/srcIp/157.100.171.79/expires/1650690155653/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3690148932564/id/2475373103828/video.m3u8?p
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona  2
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?mvk
+https://videodelivery.net/0bfb03e20a82744abd1526cf58c90d90/manifest/video.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", madrid 3
 http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/514.m3u8
