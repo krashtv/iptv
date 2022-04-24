@@ -72,64 +72,7 @@ https://proxy-13.nyc.dailymotion.com/sec(gZypywRCHzTqoDzDQDPWkunheLl5X3VkgDndZlR
 
 
 
-//El gran chaparral
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x01
-https://proxy-027.dc3.dailymotion.com/sec(w5efqWj1U6D91t1Jg1W0Q2w6H0Noe6KNVxmp7ZYm660yF8XiiSmL5qUseBcVvFMWbd-7dEPOW7GTWw23ItIhr8Bl2y33WApB7vE8HXdYP18)/video/932/113/471311239_mp4_h264_aac_hq.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x02 
-https://proxy-021.dc3.dailymotion.com/sec(49Ubi9udHuLcl5WIYb0CSk-9mLvFtbPRDLiqmQs_JkBxq7VB3bFTUenKun1SKpvDYksqBmjpP8ijL9TC3v4X_C7kccgCtb_IkZ8LaUR9b3I)/video/627/621/481126726_mp4_h264_aac.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x03
-https://proxy-015.dc3.dailymotion.com/sec(6mjGSXKUXBTNOsXCOTFc-Wz-sPocyYQTSigBeBUHwcNdgo7XZArfuBEnkbdxJ3k_Ql_XGFL33JvOWHkX_nmNWyNzldw9ncItbUqBlF6jU1E)/video/142/113/471311241_mp4_h264_aac_hq.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x04
-https://proxy-11.nyc.dailymotion.com/sec(geTKFQL_biD51hTVK1qCzpd6vxP5p0Vx6jQ2zDYK88Qx5RpF8OKvZh8mig5vk4FyQ3OVHZloLwhiHNdgpM0jIaQNCE8UsgaOgi_snO8ihzw)/video/202/099/499990202_mp4_h264_aac_hq.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x05
-https://proxy-030.dc3.dailymotion.com/sec(4pkX4jyJ09RyW9jaEyekkmjlgZHfYrilVopt-XTi6ZrDnt2cIRsdNRIvA03kPJ9jvXnSe6lXj41UypmF1CRROrZLNkDfbhs3DdqIDQyb0DA)/video/792/099/499990297_mp4_h264_aac_hq.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x06
-https://proxy-008.dc3.dailymotion.com/sec(9bLpr36Elc3rqsMpQ_biPstOSabpbMSoysk69YrvJZ61A7unUENVfg8e_T8UxO-cv0rdX5HD8E1fF8pjoqCj1BXXCuZMDpEYoNnkOzMB1jQ)/video/024/099/499990420_mp4_h264_aac_hq.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x07
 
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x08
-https://sto069.akamai-cdn-content.com/tysxfglv7k66j6cdacgrxrkagz3yle4zdige3vrlqs7kq2d7lbzre4drl6kq/el-gran-chaparral-temporada-1-capitulo-8_1.mp4
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x09
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x10
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x10
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x11
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x12
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x13
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x14
-https://sto018.akamai-cdn-content.com/tysxe5lg6666j6cdababvg26ey544cwjixjw3vk6yosznacp4hb6rpzf5vca/el-gran-chaparral-temporada-1-capitulo-14_1.mp4
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x15
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x16
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x17
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x18
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x19
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x20
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x21
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x22
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x23
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x24
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x25
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x26
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x27
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x28
 
 
 
