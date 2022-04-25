@@ -8,7 +8,7 @@ https://vkvsd70.mycdn.me/hls/2475373103828.m3u8/sig/pdDJVcTI4R4/srcIp/157.100.17
 https://videodelivery.net/0bfb03e20a82744abd1526cf58c90d90/manifest/video.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Gol tv
-https://livepeercdn.com/hls/303czcza3g41wn00/index.m3u8
+https://livepeercdn.com/hls/1087wsg9hghiu6gs/index.m3u8
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
