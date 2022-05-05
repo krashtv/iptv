@@ -2,7 +2,7 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona  1
-https://vkvsd70.mycdn.me/hls/2475373103828.m3u8/sig/pdDJVcTI4R4/srcIp/157.100.171.79/expires/1650690155653/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3690148932564/id/2475373103828/video.m3u8?p
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/QvaMPCIgHwmD8ge4xyfrREzb-CQT0l4BaH0xyflbAXN-vQxu05BK3zFe_S746BxYkdyMyIucSZ57lKCwx-9yhQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona  2
 https://videodelivery.net/471773209e980c830c839570f34c44df/manifest/video.m3u8
