@@ -2,10 +2,10 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Aucas  1
-https://live-llc-sa-east-2.media.starott.com/gru1/qb02/starplus/event/2022/05/07/Aucas_vs_Cumbay_20220507_1651956649033/cmaf-cenc-ctr-2532K/2532_slide.m3u8
+https://live-llc-sa-east-2.media.starott.com/gru1/qb02/starplus/event/2022/05/07/Aucas_vs_Cumbay_20220507_1651956649033/ctr-all-sliding.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona  2
-https://videodelivery.net/471773209e980c830c839570f34c44df/manifest/video.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", aucas  2
+https://live-llc-sa-east-2.media.starott.com/gru1/qb02/starplus/event/2022/05/07/Aucas_vs_Cumbay_20220507_1651956649033/ctr-all-sliding.m3u8?v=1&hash=f5107571e936b5ed77952b7e8f0aa702a72746d9
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Gol tv
 https://livepeercdn.com/hls/1087wsg9hghiu6gs/index.m3u8
