@@ -1,8 +1,8 @@
 #EXTM3U
 
 ***EVENTOS***
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona  1
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/QvaMPCIgHwmD8ge4xyfrREzb-CQT0l4BaH0xyflbAXN-vQxu05BK3zFe_S746BxYkdyMyIucSZ57lKCwx-9yhQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Aucas  1
+https://live-llc-sa-east-2.media.starott.com/gru1/qb02/starplus/event/2022/05/07/Aucas_vs_Cumbay_20220507_1651956649033/cmaf-cenc-ctr-2532K/2532_slide.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona  2
 https://videodelivery.net/471773209e980c830c839570f34c44df/manifest/video.m3u8
