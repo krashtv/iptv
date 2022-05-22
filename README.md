@@ -1,10 +1,10 @@
 #EXTM3U
 
 ***EVENTOS***
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Aucas  1
-https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_04jq3m48/format/applehttp/protocol/https/uiConfId/50085713/a.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Aucas vs Barcelona 1
+https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_1iwvpaxy/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", aucas  2
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", aucas  vs Barcelona 2
 https://live-llc-sa-east-2.media.starott.com/gru1/qb02/starplus/event/2022/05/07/Aucas_vs_Cumbay_20220507_1651956649033/ctr-all-sliding.m3u8?v=1&hash=f5107571e936b5ed77952b7e8f0aa702a72746d9
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Gol tv
