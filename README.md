@@ -1,8 +1,8 @@
 #EXTM3U
 
 ***EVENTOS***
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Aucas vs Barcelona 1
-https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_1iwvpaxy/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 1
+[https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_1iwvpaxy/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8](https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4618003/e/1_mf8je8g3/tl/main/st/0/t/qQWhorNuSNp4RalVN1_2aw/index-s32.m3u8?__hdnea__=st=1653516754~exp=1653603154~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4618003/e/1_mf8je8g3/tl/main/st/0/t/qQWhorNuSNp4RalVN1_2aw/index-s32.m3u8*~hmac=3faa87f3f256390960166718b204f9bff1b1903ff7c8a98bea15629e3858f982)
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", aucas  vs Barcelona 2
 https://live-llc-sa-east-2.media.starott.com/gru1/qb02/starplus/event/2022/05/07/Aucas_vs_Cumbay_20220507_1651956649033/ctr-all-sliding.m3u8?v=1&hash=f5107571e936b5ed77952b7e8f0aa702a72746d9
