@@ -10,6 +10,10 @@
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 3
 https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_mf8je8g3/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8
 
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 4
+https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_mf8je8g3/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8?Pericopalote135
+
+
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
 http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/287.m3u8
