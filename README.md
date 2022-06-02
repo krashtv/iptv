@@ -2,7 +2,7 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador
-Https://sec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_9aukuxta/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8
+https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_9aukuxta/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 2
 https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_d3qqo6et/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 3
