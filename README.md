@@ -2,16 +2,15 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador
-sec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_9aukuxta/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8
+Https://sec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_9aukuxta/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 2
 https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_d3qqo6et/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 3
 https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_mf8je8g3/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8](https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4618003/e/1_d3qqo6et/tl/main/st/0/t/2eVztKL7AmsV2BXARWalxw/index-s32.m3u8?__hdnea__=st=1653865139~exp=1653951539~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4618003/e/1_d3qqo6et/tl/main/st/0/t/2eVztKL7AmsV2BXARWalxw/index-s32.m3u8
-
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 4
 https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_mf8je8g3/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8?Pericopalote135
 
-
+sec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_9aukuxta/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
 http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/287.m3u8
