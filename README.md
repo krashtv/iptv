@@ -2,11 +2,11 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador
-https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_9aukuxta/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 2
-https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_d3qqo6et/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona 3
-https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_mf8je8g3/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8](https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4618003/e/1_d3qqo6et/tl/main/st/0/t/2eVztKL7AmsV2BXARWalxw/index-s32.m3u8?__hdnea__=st=1653865139~exp=1653951539~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4618003/e/1_d3qqo6et/tl/main/st/0/t/2eVztKL7AmsV2BXARWalxw/index-s32.m3u8
+[https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_9aukuxta/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8](https://cdn29-euwe.streaming.media.azure.net/2da2352e-e6d1-40d8-bd2a-72a7b105a95d/output-20220605-174925-manifest.ism/manifest(format=m3u8-cmaf).m3u8)
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 2
+https://cdn29-euwe.streaming.media.azure.net/2da2352e-e6d1-40d8-bd2a-72a7b105a95d/output-20220605-174925-manifest.ism/manifest(format=m3u8-cmaf).m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 3
+
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 4
 https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_mf8je8g3/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8?Pericopalote135
 
