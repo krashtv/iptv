@@ -9,8 +9,8 @@ https://cdn29-euwe.streaming.media.azure.net/2da2352e-e6d1-40d8-bd2a-72a7b105a95
 https://s8.vikistream.com:999/hls/do40-6297.ts
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
 https://s8.vikistream.com:999/hls/do40.m3u8?md5=M4rqVfDNPmeomA9z6UFIvQ&expires=1654477870
-
-
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 5
+https://cdn30-euwe.streaming.media.azure.net/b7778239-12b0-445e-b940-cb1247fdcaaa/0da952dd-c6ba-4b0e-a843-5236ba7038ee.ism/manifest(format=m3u8-cmaf).m3u8
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
