@@ -2,15 +2,16 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador
-[https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_9aukuxta/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8](https://cdn29-euwe.streaming.media.azure.net/2da2352e-e6d1-40d8-bd2a-72a7b105a95d/output-20220605-174925-manifest.ism/manifest(format=m3u8-cmaf).m3u8)
+https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk&fbclid=IwAR1EX2x5iG3WzCHM2bZb-PBfWRt4CSqqaHKkw_Q-rQJVGInKGhVy1WANC6M
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 2
 https://cdn29-euwe.streaming.media.azure.net/2da2352e-e6d1-40d8-bd2a-72a7b105a95d/output-20220605-174925-manifest.ism/manifest(format=m3u8-cmaf).m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 3
+https://s8.vikistream.com:999/hls/do40-6297.ts
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
+https://s8.vikistream.com:999/hls/do40.m3u8?md5=M4rqVfDNPmeomA9z6UFIvQ&expires=1654477870
 
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona 4
-https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_mf8je8g3/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8?Pericopalote135
 
-sec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_9aukuxta/format/applehttp/protocol/https/uiConfId/50272122/a.m3u8
+
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
 http://user.tvcluboficial.com/stream/free_Erik_Alexander/le4/287.m3u8
