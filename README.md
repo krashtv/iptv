@@ -2,13 +2,13 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador
-[https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk&fbclid=IwAR1EX2x5iG3WzCHM2bZb-PBfWRt4CSqqaHKkw_Q-rQJVGInKGhVy1WANC6M50558eef0d50.ism/QualityLevels(800000)/Manifest(video,format=m3u8](https://cdn112-usea.streaming.media.azure.net/0f760ce4-58e9-403d-880e-bb627a58cfd8/b6246569-606e-42e8-bedf-50558eef0d50.ism/QualityLevels(800000)/Manifest(video,format=m3u8-cmaf))
+https://cdn112-usea.streaming.media.azure.net/0f760ce4-58e9-403d-880e-bb627a58cfd8/b6246569-606e-42e8-bedf-50558eef0d50.ism/QualityLevels(800000)/Manifest(video,format=m3u8-cmaf)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 2
 https://cdn29-euwe.streaming.media.azure.net/2da2352e-e6d1-40d8-bd2a-72a7b105a95d/output-20220605-174925-manifest.ism/manifest(format=m3u8-cmaf).m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 3
 https://cdn112-usea.streaming.media.azure.net/0f760ce4-58e9-403d-880e-bb627a58cfd8/b6246569-606e-42e8-bedf-50558eef0d50.ism/manifest(format=m3u8-cmaf)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
-https://s8.vikistream.com:999/hls/do40.m3u8?md5=M4rqVfDNPmeomA9z6UFIvQ&expires=1654477870
+ttps://edge.playdj.tv/hls/video%2B546e0eb6-74c5-4af8-b488-d3e418628d0a/4_0/index.m3u8?origin=origin-nyc-01
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 5
 https://netwrk.ru.com/cdn/ZSOTEVyC6H/chunks.m3u8
 
