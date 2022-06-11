@@ -2,15 +2,15 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador
-https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk&fbclid=IwAR1EX2x5iG3WzCHM2bZb-PBfWRt4CSqqaHKkw_Q-rQJVGInKGhVy1WANC6M50558eef0d50.ism/QualityLevels(800000)/Manifest(video,format=m3u8
+[https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk&fbclid=IwAR1EX2x5iG3WzCHM2bZb-PBfWRt4CSqqaHKkw_Q-rQJVGInKGhVy1WANC6M50558eef0d50.ism/QualityLevels(800000)/Manifest(video,format=m3u8](https://cdn112-usea.streaming.media.azure.net/0f760ce4-58e9-403d-880e-bb627a58cfd8/b6246569-606e-42e8-bedf-50558eef0d50.ism/QualityLevels(800000)/Manifest(video,format=m3u8-cmaf))
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 2
 https://cdn29-euwe.streaming.media.azure.net/2da2352e-e6d1-40d8-bd2a-72a7b105a95d/output-20220605-174925-manifest.ism/manifest(format=m3u8-cmaf).m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 3
-https://s8.vikistream.com:999/hls/do40-6297.ts
+https://cdn112-usea.streaming.media.azure.net/0f760ce4-58e9-403d-880e-bb627a58cfd8/b6246569-606e-42e8-bedf-50558eef0d50.ism/manifest(format=m3u8-cmaf)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
 https://s8.vikistream.com:999/hls/do40.m3u8?md5=M4rqVfDNPmeomA9z6UFIvQ&expires=1654477870
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 5
-https://cdn30-euwe.streaming.media.azure.net/b7778239-12b0-445e-b940-cb1247fdcaaa/0da952dd-c6ba-4b0e-a843-5236ba7038ee.ism/manifest(format=m3u8-cmaf).m3u8
+https://netwrk.ru.com/cdn/ZSOTEVyC6H/chunks.m3u8
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 
@@ -57,6 +57,8 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/jncul", group-title="ENTRETENIMIENTO", UNIVISION NY
+https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk&fbclid=IwAR1EX2x5iG3WzCHM2bZb-PBfWRt4CSqqaHKkw_Q-rQJVGInKGhVy1WANC6M50558eef0d50.ism/QualityLevels(800000)/Manifest(video,format=m3u8 
 
 
 //El chavo del ocho
