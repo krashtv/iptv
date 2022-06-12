@@ -2,7 +2,7 @@
 
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador
-https://cdn112-usea.streaming.media.azure.net/0f760ce4-58e9-403d-880e-bb627a58cfd8/b6246569-606e-42e8-bedf-50558eef0d50.ism/QualityLevels(800000)/Manifest(video,format=m3u8-cmaf)
+https://hls1.yuanzhi.org.cn/live/H455479.m3u8?txSecret=4cde75513f486642320a05327bede31f&txTime=62A75C35&_s=stream
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 2
 https://cdn29-euwe.streaming.media.azure.net/2da2352e-e6d1-40d8-bd2a-72a7b105a95d/output-20220605-174925-manifest.ism/manifest(format=m3u8-cmaf).m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 3
