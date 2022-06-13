@@ -1,8 +1,8 @@
 #EXTM3U
 
 ***EVENTOS***
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador
-https://hls1.yuanzhi.org.cn/live/H455479.m3u8?txSecret=4cde75513f486642320a05327bede31f&txTime=62A75C35&_s=stream
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", peru
+https://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-72-37/zfako/1654962593/src/live.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 2
 https://cdn29-euwe.streaming.media.azure.net/2da2352e-e6d1-40d8-bd2a-72a7b105a95d/output-20220605-174925-manifest.ism/manifest(format=m3u8-cmaf).m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 3
