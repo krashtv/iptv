@@ -59,6 +59,39 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/jncul", group-title="ENTRETENIMIENTO", UNIVISION NY
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk&fbclid=IwAR1EX2x5iG3WzCHM2bZb-PBfWRt4CSqqaHKkw_Q-rQJVGInKGhVy1WANC6M50558eef0d50.ism/QualityLevels(800000)/Manifest(video,format=m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/sinlogo.png" group-title="ENTRETENIMIENTO" , Wow
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="ENTRETENIMIENTO" , VC ONLINE HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="ENTRETENIMIENTO" , ExtremaTv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png" , group-title="ENTRETENIMIENTO", TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png", group-title="ENTRETENIMIENTO", TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png", group-title="ENTRETENIMIENTO", TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png", group-title="ENTRETENIMIENTO",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
+
+
+
+#EXTINF:-1,tvg-logo="https://cdn-radiotime-logos.tunein.com/s253201g.png", group-title="MUSICALES", Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1494898547.png" group-title="CHILE" , PinguinoTV
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1533434576.png" group-title="CULTURA" , Nasa
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528657520.png" group-title="CULTURA" , CAM - Estación Espacial Int
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+
+
 
 
 //El chavo del ocho
@@ -73,6 +106,8 @@ https://proxy-15.nyc.dailymotion.com/sec(IEbO6Z1LHuUskp709C0fW7VLSeI9Yo71Ruke2jX
 https://proxy-13.nyc.dailymotion.com/sec(gZypywRCHzTqoDzDQDPWkunheLl5X3VkgDndZlRK_Am5XPqUvChF2bbpAGr32OG5qW5wwCIlZb6-xWdm1dWDtIF7D2Do703GKqyEqvaCesA)/video/503/803/488308305_mp4_h264_aac.m3u8
 
 
+// CANTINFLAS
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/idrzi", group-title="CANTINFLAS", Por Mis Pistolas
 
-
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/idrzi", group-title="CANTINFLAS", El Analfabeto
 
