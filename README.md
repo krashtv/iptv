@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", independiente
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 2
-https://cdn29-euwe.streaming.media.azure.net/2da2352e-e6d1-40d8-bd2a-72a7b105a95d/output-20220605-174925-manifest.ism/manifest(format=m3u8-cmaf).m3u8
+https://store5.gofile.io/download/83793011-5340-407a-aec0-ea4d27818fc4/Aguas%20Frescas%202.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 3
 https://cdn112-usea.streaming.media.azure.net/0f760ce4-58e9-403d-880e-bb627a58cfd8/b6246569-606e-42e8-bedf-50558eef0d50.ism/manifest(format=m3u8-cmaf)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
