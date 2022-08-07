@@ -5,8 +5,8 @@
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona vs Mushuc runa
 https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 3
-https://cdn112-usea.streaming.media.azure.net/0f760ce4-58e9-403d-880e-bb627a58cfd8/b6246569-606e-42e8-bedf-50558eef0d50.ism/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona vs Mushuc runa 2
+[https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8](https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
 ttps://edge.playdj.tv/hls/video%2B546e0eb6-74c5-4af8-b488-d3e418628d0a/4_0/index.m3u8?origin=origin-nyc-01
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 5
