@@ -3,8 +3,8 @@
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", independiente
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", chito
-http://clubtv.link/jun14/j1414/lista1.php?c=a015
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", independiente 2
+https://ingest4-6518.boxcast.com/superb-end/mcc3cqlliijwrudbukw1/720p-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbmdlc3Q0LTY1MTguYm94Y2FzdC5jb20vc3VwZXJiLWVuZC9tY2MzY3FsbGlpandydWRidWt3MS83MjBwLWV4dC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYyMTA1NjQwfX19XX0_&Signature=PZ4DOrOaEmZIgKb8tOUX9YgqbtQk~oXLjgjXywMoTLHtxiOsORi9ZeMJv4S10V9m5DUoKDPam6KNY28AEfqUhzKEtX0itxN-ygBAbgswBC19HvAoD-8ibqX9L-gkDWMY0NaIS87-T7pomo1hGlXgiufajAirQCDm4xLcZY1CMV0oDtokBKvaR8Lqil~zs0Xu04sr9I64PZgRwua5oizzV43U34H3lxFCgt-2hoGqy~JDMDuVsVwPBYNgkzerJ8-ML0UJWcRJv0PhrXUOQR3kOkYlv2B1mJaojhtmVMO0BaDBaordt5tehsWaHlk~7K0LWekSXC13fOWbfHdmOkL7Ow__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona vs Mushuc runa 2
 [https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8](https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
