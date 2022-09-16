@@ -14,7 +14,7 @@ https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=287&f=.m3u8
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 Vale
-https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=287&f=.m3u8
+http://magmas5.com:8000/malotv/gratis/4827
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/b0xo6", group-title="DEPORTES", LaLiga 1 
 https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=916&f=.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/do0yv", group-title="DEPORTES", Tnt Sports Stadium CL
@@ -148,7 +148,7 @@ https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=329&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
 https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=790&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
-https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=400&f=.m3u8
+http://magmas5.com:8000/malotv/gratis/129315
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
 https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=429&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/jorgeelcurioso.png" group-title="24/7",Jorge el Curioso 24/7
