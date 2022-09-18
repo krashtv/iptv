@@ -3,8 +3,8 @@
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", independiente
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", aucas vs emelec
-https://ingest4-0715.boxcast.com/brash-chickens/tbmwyicm8vrljksyxkff/720p-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbmdlc3Q0LTA3MTUuYm94Y2FzdC5jb20vYnJhc2gtY2hpY2tlbnMvdGJtd3lpY204dnJsamtzeXhrZmYvNzIwcC1leHQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2MzAzNzYyM319fV19&Signature=idJzhwAALVHt96EsiZzQ-GCAm09Emg4OYjmH68pcwHXnCwwAumSfXgEl9RbAYS8wwgE18SlBsyfpj0FMXQb-2r7OxmMh~ZFhZi2~s-YoC7Rm6O6URBNo9Xkls~kYJJ1Reg~H4oatl2LkgEpDxxTUcwYwY6qqYzh6FdOyJF4iCMtbP6avtA02Sc4ui5FIUfGBDcRBdIS808sR34c6sF-N77TZSxsinbIdvnJ65FaFvwLaBnhzbVc76lY9MbaSQQq6prTM1apScFkaV2AZsiOjM1xK7i6ksdtQC22A38H57NxZqh7eK48YI4TnSD1nvflXNpP9qq5iALi96A--25Sv9Q__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", emelec vs barcelona
+https://ingest4-3095.boxcast.com/abject-throat/i18wp4dguiw1s2n9ragd/720p-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbmdlc3Q0LTMwOTUuYm94Y2FzdC5jb20vYWJqZWN0LXRocm9hdC9pMTh3cDRkZ3VpdzFzMm45cmFnZC83MjBwLWV4dC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYzNjU1ODU3fX19XX0_&Signature=EEO--Ts5dFx7R1JJTeMKHTBcTXDTC6IUKksWBsScATXlLuQpw85aeKpvL4yLtHW8uK8MtTHbhKgrvdtX02jz01NtlV~~NrK9iTx4M3rAunlpqIOIdO9tDMi2cVYgD8CGrDWTWh1t8uAOxtOKoYBUaJseXb~-W9gFD2X2yl8j02kqQrtzkLM59uxcWOaeNCYUc54xQPJcPW6l~N5HoRaBBq-qgB85mzQUHJZs9mY9BTNOMDAUiLSHd8WQCF7EMfTQ3obbx1Ac2OxIiRMvUxGwQHrKmAaDyBpP3P6qS-Ll-kDjSXP5Uc13QkcxjCj1duNKwnB5gqCB86rgbcOOmMkhWg__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona vs Mushuc runa 2
 [https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8](https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
