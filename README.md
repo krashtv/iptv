@@ -10,7 +10,7 @@ https://dap.deplayer.pw:30443/edge/vereaa23cb09/chunks.m3u8?nimblesessionid=1987
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
 ttps://edge.playdj.tv/hls/video%2B546e0eb6-74c5-4af8-b488-d3e418628d0a/4_0/index.m3u8?origin=origin-nyc-01
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Futbol Ecuador
-https://shortgod.com/flashm3uv2/pl30aaaa048.php?id=287&f=.m3u8
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvcE_GN8MY07Xwyi3EHYwGwWz_x2GMP5xZx8ZXQf4-bzlCcHzVB9wWxeUrS2hx8zCL6V2x2_8lJyB1zMC0VrbJ08wxm_3ame2ZVsfiXUYIntizO3OhmJe1w2dfN4LnG8OLDE5AOO-DqQmlCZXmX0qPOHMzsJeFXInyMjXyChcsg3xbcA9fCyy0ZiJFBhT63GbPWOjnr6R7vsicFHGFcr_ImvZ9c-QAw54YBb1JFntQ43ING5PbL1mz8EfyyK2FeRaVlbDTuAHi-6DnR_1OFLBdVF-Dy_wLQtasvaznUXwMAcELTM68HzFQG9SqE5SMsqIMF9LI32cU7xJvXMZdkSa519rdDnp56gmL2dRpJRif4FGUsV_fVqinNTC1gUggHbaed4bNrWcsZfiIV7S8WOkAkLEHBZJlIOrh8Yoo3uiuqN9KglIskwxYU6KM7F2QBsW-qUIGsmzOOtWTLklOFH5b-DT5bNkMxnGz1buWpGSZ7ppDfXUvt7KGUvbBcyWxayNOBc6ZvG_93b_VwHPbhQP4_iUKcgpTIfUtx7PMlISYpXStt1D5X3b16xGS7D2CIq6fPWYIbaOpTkjbrh1GOwPwagGVSLZ93twa8LCDliu90nCn9OOLm4DLlkNptJCiZ1ugaEwhL7xBMmwpawJ2LwbINNnPFy5SmO68qphWTWjVR8wiS6SQixi98T3gQ13ZNfphUiROYy4h8qlbomDX2nq5Euz2qT9SnMNiNxW0cU3-AzDPVon-5nPlzeTEfaRLSZejlh7zijPmMM1-J3hVcpMo3Iwjt3betmwz6V3AKcK3EkJvo-UlIs23HMAv4PIqP-fxZbDyWhSC7HrxoM6QNGgndzLYb-7A2gIAEqCWV1LXdlc3QtMjDcBA.m3u8
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 Vale
