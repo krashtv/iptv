@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", independiente
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", emelec vs barcelona
-https://ingest4-3095.boxcast.com/abject-throat/i18wp4dguiw1s2n9ragd/720p-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbmdlc3Q0LTMwOTUuYm94Y2FzdC5jb20vYWJqZWN0LXRocm9hdC9pMTh3cDRkZ3VpdzFzMm45cmFnZC83MjBwLWV4dC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYzNjU1ODU3fX19XX0_&Signature=EEO--Ts5dFx7R1JJTeMKHTBcTXDTC6IUKksWBsScATXlLuQpw85aeKpvL4yLtHW8uK8MtTHbhKgrvdtX02jz01NtlV~~NrK9iTx4M3rAunlpqIOIdO9tDMi2cVYgD8CGrDWTWh1t8uAOxtOKoYBUaJseXb~-W9gFD2X2yl8j02kqQrtzkLM59uxcWOaeNCYUc54xQPJcPW6l~N5HoRaBBq-qgB85mzQUHJZs9mY9BTNOMDAUiLSHd8WQCF7EMfTQ3obbx1Ac2OxIiRMvUxGwQHrKmAaDyBpP3P6qS-Ll-kDjSXP5Uc13QkcxjCj1duNKwnB5gqCB86rgbcOOmMkhWg__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
+https://dap.deplayer.pw:30443/edge/vereaa23cb09/chunks.m3u8?nimblesessionid=198756&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIyIDY6NTc6MDggUE0maGFzaF92YWx1ZT1KWk1QMHlBY3ZWdENyOHRRRHJYcFBnPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona vs Mushuc runa 2
 [https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8](https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
