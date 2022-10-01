@@ -1,5 +1,27 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", EL ANALFABETO
+https://ia902503.us.archive.org/5/items/el-analfabeto-c-4-nt-1-fl-4-s/El%20Analfabeto%20C4NT1FL4S.mp4?cnt=0
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", EL BOMBERO ATÓMICO
+https://ia601405.us.archive.org/10/items/el-bombero-atomico-/El%20Bombero%20Atomico%20Pelicula%20completa.%20Peliculas%20de%20cantinflas%20completas%20-%20video%20Dailymotion.mp4?cnt=0
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", SU EXCELENCIA
+https://ia601409.us.archive.org/33/items/cantinflas-su-excelenci-4/CANTINFLAS%20%20Su%20Excelenci4.mp4?cnt=0
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", AHÍ ESTÁ EL DETALLE
+https://ia801407.us.archive.org/25/items/por-mis-pistolas-cantinflas/Ah%C3%AD%20est%C3%A1%20el%20detalle.mp4?cnt=0
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", POR MIS PISTOLAS
+https://ia801407.us.archive.org/25/items/por-mis-pistolas-cantinflas/Por%20Mis%20Pistolas%20cantinflas.mp4
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", A VOLAR JOVEN
+https://ia801407.us.archive.org/25/items/por-mis-pistolas-cantinflas/cantinflas%20-%20a%20volar%20joven.ia.mp4
+
+
+
+
+
+
+
+
+
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", independiente
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
