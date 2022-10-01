@@ -25,8 +25,8 @@ https://ia801407.us.archive.org/25/items/por-mis-pistolas-cantinflas/cantinflas%
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", independiente
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", emelec vs barcelona
-https://dap.deplayer.pw:30443/edge/vereaa23cb09/chunks.m3u8?nimblesessionid=198756&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIyIDY6NTc6MDggUE0maGFzaF92YWx1ZT1KWk1QMHlBY3ZWdENyOHRRRHJYcFBnPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", independiente vs sao paulo
+https://n9.cl/w39li
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona vs Mushuc runa 2
 [https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8](https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
