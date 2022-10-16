@@ -25,8 +25,8 @@ https://ia801407.us.archive.org/25/items/por-mis-pistolas-cantinflas/cantinflas%
 ***EVENTOS***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", independiente
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", independiente vs sao paulo
-https://n9.cl/w39li
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona vs Aucas
+https://video-weaver.rio01.hls.live-video.net/v1/playlist/CqMFsRrNNvIF17Q7AE3G5Umk0arRUcZFYJHqI-rZ1KAO6HTxHZAMTD7Wo6YVxwAlw74PDsK917gb4NZ7R2XIefq6OdSDgsUYaEB9IitmuZY7Xf5rocAZ-tAp73f7ipHF1D7ZYDoO7SE4fqeiF6-yI5dezCoO1FF-BtXPgYGT7Gg-Kz6xsAYcc2g1PU1gFtMPRkTS8qj8F5D4zZVd_w7jjDq0FVUt-OHUWA5XbPWGy_kMoJSqwEOhXVcUD2pdn6RAQtRc_LY1Tw-oPcvw28BnZ97--tE0TlaE75Em1osxKstGb7pLNd8jsb7jij56dScdcbf87lurGWcA_L5Q3dZdjmB_2kCvXK_m5rwjetBevHiEbmy-145rRzR1busgilRnNx-EZD0RgqIK1Zsn8xWfiZp0CWgEhaDR_E_DEUJPkxiD7wCPmeYPoBUZ0g0_6qSJftdo_QhvShJzqutJSG2t9wOmrtM0Jfq38hhJ2ShAgkOBMpDRhmdR6iHWwasbZkGN8QrPhe5WTVQvLEVyqON2tVU5o5nx0D7BDKPNJJSI8hFiwv7uHKb8wA-6fP6FOY1oJHKYbu54MDZLY3xwD42WIM0J8X1LZdCtou2nwE-BZFREz4g4wKAG6u89u-OyHRPlORMqI--M2U6xjxS7xP5WuEYD4vF48rKVw8KA3GU9nWjDp1KJk7Gh7pw_ftlR2TTLNs9deP2uorQtalXshAF6cMTHigf5qUoJrSaB6LEznRQAxjCIJSAQ-_SgtmkTurisGiCB1GqgUXKwGJAXkH87J5VFVqNHeDTQkeuvrwgpB3aDVVaLLNC4LmmQAvBgeLmJOqrY_5cOeVpp_q2jDsF-Iys0B2teL-fMzFmIL5KSu1t_60tvu97oVHbP21s3yFCujvK_r8iPGgwGyqrT8Fcz3rrdFCMgASoJdXMtZWFzdC0xMKwD.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona vs Mushuc runa 2
 [https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8](https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
