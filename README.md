@@ -32,8 +32,8 @@ FF-BtXPgYGT7Gg-Kz6xsAYcc2g1PU1gFtMPRkTS8qj8F5D4zZVd_w7jjDq0FVUt-OHUWA5XbPWGy_kMo
 [https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8](https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8)
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
 https://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD-mp4a_145200_eng=20002-scale=48000-init.mp4
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Argentina
-https://mythos-athanatos.boxcast.com/nemesis/piseizfuiinr5frjzkss/720p-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9teXRob3MtYXRoYW5hdG9zLmJveGNhc3QuY29tL25lbWVzaXMvcGlzZWl6ZnVpaW5yNWZyanprc3MvNzIwcC1leHQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NDA5MDcxOX19fV19&Signature=gJp7YTY-HrhXe0fHE-yNdSlm1yqg7DUJ85Wozv3BHThhriG8IPfXKmcERAftWqbkcu98aW895oM85a1dNW9QAagE88gv28nU8oCrvqan4oR72sRUBNZBBtg7~8jxAkPOP6~n2mw~ybB8oSgPObcFtJgkUKbH3YsKBhC8ABQszpESfObUidgpGG0rF46iDS9OgBtX0~4sXjGqkMhwNxT-TUthlNnLDk-c-mjdxAHxkP-y5DsBrkLjgX47tnwBmPpBL-o-1aWaHpw5njgPk0igl2eMDanax~77J2M7C~epGbsqaqJRSssKWhkD8e~7V3EUayjt4eE5RgXgBl9Ct2NYqA__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Aucas 2
+https://cdn.wasd.tv/live/1600383/index.m3u8
 
 ***DEPORTES***
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://n9.cl/knycg", group-title="DEPORTES", Gol tv Ecuador 1 Vale
