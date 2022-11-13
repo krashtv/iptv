@@ -27,8 +27,8 @@ https://ia801407.us.archive.org/25/items/por-mis-pistolas-cantinflas/cantinflas%
 https://d387613w8yyayj.cloudfront.net/15073_2022_11_12_19_37_04_19124604/index_504p30.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona vs aucas
 https://d3crfo4z0fi27n.cloudfront.net/hls/6c9a82c9b16764db7414350a756725e7/high.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Barcelona vs Mushuc runa 2
-[https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8](https://wrtc854072.bigmarker.com/user-rtmp/525329e9a32e-167ecdbed9074c4e087ef70572ed3ec2.m3u8)
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Aucas vs Barcelona 2
+https://d387613w8yyayj.cloudfront.net/15089_2022_11_13_22_42_38_2315448/index_504p30.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4
 https://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD-mp4a_145200_eng=20002-scale=48000-init.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Aucas 2
