@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", Barce
+https://live.kinescopecdn.net/on-air/83b7dada-9f81-4292-ba81-42fa33b08097/638bbda3-7f53-44f7-ad01-60c4446948bc/master.m3u8
+
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", EL ANALFABETO
 https://ia902503.us.archive.org/5/items/el-analfabeto-c-4-nt-1-fl-4-s/El%20Analfabeto%20C4NT1FL4S.mp4?cnt=0
