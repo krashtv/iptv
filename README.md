@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", Barce
-https://live.kinescopecdn.net/on-air/83b7dada-9f81-4292-ba81-42fa33b08097/638bbda3-7f53-44f7-ad01-60c4446948bc/master.m3u8
+https://moon-300ge-streaming-server.dvsdvsdvsdva.com/hls2/01/02883/hd424sosvhad_h/index-v1-a1.m3u8?t=WVIz2Qaag7IMt6cs6PIWvKHZcJQJ8ahczB6gB4iLucY&s=1679338683&e=43200&f=14419796&srv=moon-storage-delivery-s46.dasmanksdajkdasd.com&asn=27947&sp=3000
 
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", EL ANALFABETO
