@@ -1,17 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", Barce https://moon-300ge-streaming-server.dvsdvsdvsdva.com/hls2/01/02883/hd424sosvhad_h/index-v1-a1.m3u8?t=WVIz2Qaag7IMt6cs6PIWvKHZcJQJ8ahczB6gB4iLucY&s=1679338683&e=43200&f=14419796&srv=moon-storage-delivery-s46.dasmanksdajkdasd.com&asn=27947&sp=3000
 
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", EL ANALFABETO https://ia902503.us.archive.org/5/items/el-analfabeto-c-4-nt-1-fl-4-s/El%20Analfabeto%20C4NT1FL4S.mp4?cnt=0 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", EL BOMBERO ATÓMICO https://ia601405.us.archive.org/10/items/el-bombero-atomico-/El%20Bombero%20Atomico%20Pelicula%20completa.%20Peliculas%20de%20cantinflas%20completas%20-%20video%20Dailymotion.mp4?cnt=0 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", SU EXCELENCIA https://ia601409.us.archive.org/33/items/cantinflas-su-excelenci-4/CANTINFLAS%20%20Su%20Excelenci4.mp4?cnt=0 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", AHÍ ESTÁ EL DETALLE https://ia801407.us.archive.org/25/items/por-mis-pistolas-cantinflas/Ah%C3%AD%20est%C3%A1%20el%20detalle.mp4?cnt=0 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", POR MIS PISTOLAS https://ia801407.us.archive.org/25/items/por-mis-pistolas-cantinflas/Por%20Mis%20Pistolas%20cantinflas.mp4 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="CANTINFLAS", A VOLAR JOVEN https://ia801407.us.archive.org/25/items/por-mis-pistolas-cantinflas/cantinflas%20-%20a%20volar%20joven.ia.mp4
-
-EVENTOS #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", tecnico vs Barcelona https://m5q3v8e2.stackpathcdn.com/slot-64/ls9l-xvuf_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", barcelona vs aucas https://d3crfo4z0fi27n.cloudfront.net/hls/6c9a82c9b16764db7414350a756725e7/high.m3u8 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Aucas vs Barcelona 2 https://d387613w8yyayj.cloudfront.net/15089_2022_11_13_22_42_38_2315448/index_504p30.m3u8 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Ecuador 4 https://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD-mp4a_145200_eng=20002-scale=48000-init.mp4 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="", group-title="EVENTOS", Aucas 2 https://cdn.wasd.tv/live/1600383/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
-http://shortgod.com/canaldisponible.mp4
-#EXTINF:-1  group-title="", Azteca 7
-http://flash.shortgod.com/malditos/tv2.php?id=1&token=ShortGod&file=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Eventos",shortgod.com
+https://m5q3v8e2.stackpathcdn.com/slot-64/ls9l-xvuf_720p/chunklist.m3u8
+#EXTINF:-1  group-title="Eventos", 1 Barcelona vs técnico 
+https://m5q3v8e2.stackpathcdn.com/slot-64/ls9l-xvuf_720p/chunklist.m3u8
 #EXTINF:-1  group-title="", Canal 5
 http://flash.shortgod.com/malditos/tv2.php?id=2&token=ShortGod&file=.m3u8
 #EXTINF:-1  group-title="", TUDN
