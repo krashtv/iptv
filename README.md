@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-piedra-filosofal.jpg", group-title="Harry Potter", Harry Potter 1
-https://sv3.sosanovel.com/app/marimar/marimar80.mp4
+https://sto003.sh-content.com/v/01/00940/up1r100gt8v7_n/herederosdeunavenganza002_n.mp4?t=hBtSUyK9DMi7E65N96tBV35sR57t3HOnaCVOWXpb8_k&s=1689745258&e=129600&f=4702592&sp=300&i=0.0
 
 
 
