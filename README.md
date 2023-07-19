@@ -9,7 +9,7 @@ https://sv3.sosanovel.com/app/marimar/marimar80.mp4
 
 
 #EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-piedra-filosofal.jpg", group-title="Harry Potter", Harry Potter 3
-https://sv4.sosanovel.com/app2/herederosdeunavenganza/herederosdeunavenganza001.mp4
+https://sv4.sosanovel.com/okruembed/?v=7020271372805
 
 
 
