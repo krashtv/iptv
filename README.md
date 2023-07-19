@@ -6,6 +6,14 @@ https://sv3.sosanovel.com/app/marimar/marimar80.mp4
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-piedra-filosofal.jpg", group-title="Harry Potter", Harry Potter 3
+https://sv4.sosanovel.com/app2/herederosdeunavenganza/herederosdeunavenganza001.mp4
+
+
+
+
 #EXTINF:-1,DEP HD: ESPN 1 (ARG)
 http://flash.shortgod.com/wadsa/tv1.php?id=16
 #EXTINF:-1,DEP HD: ESPN 2 (ARG)
