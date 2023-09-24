@@ -1,17 +1,29 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-piedra-filosofal.jpg", group-title="Harry Potter", Harry Potter 1
-https://sto003.sh-content.com/v/01/00940/up1r100gt8v7_n/herederosdeunavenganza002_n.mp4?t=hBtSUyK9DMi7E65N96tBV35sR57t3HOnaCVOWXpb8_k&s=1689745258&e=129600&f=4702592&sp=300&i=0.0
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 01
+https://ia803109.us.archive.org/28/items/peem-1/PEEM-1.ia.mp4?cnt=0
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 02
+https://ia600508.us.archive.org/7/items/peem-2/PEEM-2.ia.mp4?cnt=0
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 03
+https://ia800508.us.archive.org/13/items/peem-3/PEEM-3.ia.mp4?cnt=0
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 04
+https://ia804602.us.archive.org/23/items/peem-4/PEEM-4.ia.mp4?cnt=0
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 05
+https://ia600507.us.archive.org/9/items/peem-5/PEEM-5.ia.mp4?cnt=0
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 06
+https://ia904706.us.archive.org/11/items/peem-6/PEEM-6.ia.mp4?cnt=0
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 07
+https://ia600507.us.archive.org/15/items/peem-7/PEEM-7.ia.mp4?cnt=0
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 08
 
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 09
 
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 10
 
-#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-piedra-filosofal.jpg", group-title="Harry Potter", Harry Potter 2
-https://play.sosanovel.org/streamhide/streamhide.php?v=up1r100gt8v7
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 11
 
-#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-piedra-filosofal.jpg", group-title="Harry Potter", Harry Potter 3
-https://sv4.sosanovel.com/okruembed/?v=7020271372805
-
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 12
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL NUEVE HD" tvg-logo="http://pro.ipcover.tv:8080/images/f6f0d4ffe26e1dbb764ee102e099c1b8.png" group-title="LATINO  ☆ SAT",ARG: CANAL NUEVE HD
