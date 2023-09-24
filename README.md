@@ -2,13 +2,13 @@
 
 
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 01
-https://ia803109.us.archive.org/28/items/peem-1/PEEM-1.ia.mp4?cnt=0
-#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 02
-https://ia600508.us.archive.org/7/items/peem-2/PEEM-2.ia.mp4?cnt=0
+https://cdn7.tokyvideo.com/videos/714/71417/mp4/c0b1d263bec12fd7f71972909c1df202dea7868c91747dd133bb0650b8b1f4a3.mp4?nva=20230925183213&nvb=20230923183213&token=0305f83e1287bd54a28d0
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 02 your
+https://s211.vidcache.net:8166/play/a20230924X3jsO2FIYFF/video.mp4?
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 03
-https://ia800508.us.archive.org/13/items/peem-3/PEEM-3.ia.mp4?cnt=0
+https://o3l013nnalpx.sw-cdnstream.com/hls2/01/00552/15jl9s7bbdm1_,n,h,.urlset/index-f1-v1-a1.m3u8?t=2nAy-D2MODFpAIX84PztMZ_bmZdSI02ofoODrbIIdiU&s=1695580779&e=129600&f=2761854&srv=vk3a0helfz6s&i=0.4&sp=500&p1=vk3a0helfz6s&p2=vk3a0helfz6s&asn=27947
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 04
-https://ia804602.us.archive.org/23/items/peem-4/PEEM-4.ia.mp4?cnt=0
+https://o3l013nnalpx.sw-cdnstream.com/hls2/01/00552/15jl9s7bbdm1_,n,h,.urlset/index-f2-v1-a1.m3u8?t=2nAy-D2MODFpAIX84PztMZ_bmZdSI02ofoODrbIIdiU&s=1695580779&e=129600&f=2761854&srv=vk3a0helfz6s&i=0.4&sp=500&p1=vk3a0helfz6s&p2=vk3a0helfz6s&asn=27947
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 05
 https://ia600507.us.archive.org/9/items/peem-5/PEEM-5.ia.mp4?cnt=0
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 06
