@@ -18,7 +18,7 @@ https://ia600507.us.archive.org/15/items/peem-7/PEEM-7.ia.mp4?cnt=0
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 08
 
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 09
-
+https://b7i4j3n3.stackpathcdn.com/dlive-jyotzaptex/1695601328/src/live.m3u8
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 10
 
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 11
