@@ -10,9 +10,9 @@ https://o3l013nnalpx.sw-cdnstream.com/hls2/01/00552/15jl9s7bbdm1_,n,h,.urlset/in
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 04
 https://o3l013nnalpx.sw-cdnstream.com/hls2/01/00552/15jl9s7bbdm1_,n,h,.urlset/index-f2-v1-a1.m3u8?t=2nAy-D2MODFpAIX84PztMZ_bmZdSI02ofoODrbIIdiU&s=1695580779&e=129600&f=2761854&srv=vk3a0helfz6s&i=0.4&sp=500&p1=vk3a0helfz6s&p2=vk3a0helfz6s&asn=27947
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 05
-https://ia600507.us.archive.org/9/items/peem-5/PEEM-5.ia.mp4?cnt=0
+https://cldup.com/ihrXshN1MeD.mp4
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 06
-https://ia904706.us.archive.org/11/items/peem-6/PEEM-6.ia.mp4?cnt=0
+https://cldup.com/iUbp8dhtGiT.mp4?download=Kokun%2520Super%2520Lat%2520-%2520059.mp4
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 07
 https://ia600507.us.archive.org/15/items/peem-7/PEEM-7.ia.mp4?cnt=0
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 08
