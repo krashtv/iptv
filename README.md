@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 01
-https://cdn7.tokyvideo.com/videos/714/71417/mp4/c0b1d263bec12fd7f71972909c1df202dea7868c91747dd133bb0650b8b1f4a3.mp4?nva=20230925183213&nvb=20230923183213&token=0305f83e1287bd54a28d0
+https://server23.mxcdnab.online/newhls/17032c967db5e0437e86bc7f93f616dc/EP.0.1.v0.1681813615.m3u8
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 02 your
 https://s211.vidcache.net:8166/play/a20230924X3jsO2FIYFF/video.mp4?
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 03
