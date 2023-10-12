@@ -23,8 +23,8 @@ https://b7i4j3n3.stackpathcdn.com/dlive-jyotzaptex/1695601328/src/live.m3u8
 https://m130.uqload.io/3rfk5xgle5w2q4drdjdphm5pl4g5ucikwjtm3mv3vm44vfgzfb3y7lprvkqa/v.mp4
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 11
 https://server41.mxcdnab.online/newhls/bb50a995c76e54bc98b0b2facd64055e/EP.1.1.v0.1677841637.360.m3u8
-#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 12 drop scrip
-https://www.dropbox.com/s/d1ud181ezu7p9c2/Lcp4x1.mp4?dl=1&pv=1
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos",Bolivia vs Ecuador 
+https://cdnelverruca9.s3.amazonaws.com/video_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL NUEVE HD" tvg-logo="http://pro.ipcover.tv:8080/images/f6f0d4ffe26e1dbb764ee102e099c1b8.png" group-title="LATINO  ☆ SAT",ARG: CANAL NUEVE HD
 http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248883
