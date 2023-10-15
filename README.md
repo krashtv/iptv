@@ -43,3 +43,28 @@ https://server14.mxcdnab.online/newhls/466c43e4c8382e8a671bf4996954ed4a/EP.0.1.v
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/super-mario-bros-la-pelicula-2-1680808202.jpg", group-title="Animado",Súper Mario Bros: La película
 https://server14.mxcdnab.online/newhls/b9f3f5e072aa9be99699e94bdf0924d6/EP.0.1.v2.1691859102.720.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/creed-la-leyenda-de-rocky.jpg", group-title="Acción",Creed: La Leyenda de Rocky
+https://server17.mxcdnab.online/newhls/8af748287c9d032f24ce43a99c91ab53/EP.0.1.v1.1677467526.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/creed-ii-defendiendo-el-legado.jpg", group-title="Acción",Creed II: Defendiendo el Legado
+https://server20.mxcdnab.online/newhls/4e0f9f9d16a5ac2b4892b493c8183935/EP.0.1.v1.1677553677.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/creed-iii-2-1678270204.jpg", group-title="Acción",Creed III
+https://server16.mxcdnab.online/newhls/035ca6954c9c1fe98480371de46f33f2/EP.0.1.v4.1681631674.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-last-duel-2-1634439845.jpg", group-title="Acción",El último duelo
+https://server17.mxcdnab.online/newhls/961ddc3fd77d10954c768db57f2a715e/EP.0.1.v2.1679647895.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/russkiy-reyd-2-1634439844.jpg", group-title="Acción",Russian Raid
+https://server07.mxcdnab.online/newhls/1e6763e682f891e2c16d68023cdb2b34/EP.0.1.v1.1676630945.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/black-site-2-1632628206.jpg", group-title="Acción",Black Site
+https://server27.mxcdnab.online/newhls/1b9ad86de7f7a5a8fe9d2d8745970cc2/EP.0.1.v1.1679668559.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-card-counter-2-1632155891.jpg", group-title="Acción",The Card Counter
+https://server08.mxcdnab.online/newhls/c4c92387f9fdb14737a1ae4ddcec7721/EP.0.1.v2.1679699355.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/super-mario-bros-la-pelicula-2-1680808202.jpg", group-title="Acción",Súper Mario Bros: La película
+
+
+
