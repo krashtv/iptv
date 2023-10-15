@@ -29,10 +29,17 @@ https://cdnelverruca9.s3.amazonaws.com/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/shrek-1.jpg", group-title="Shrek",Shrek 1
 https://server37.mxcdnab.online/newhls/48d0d381106aaaf6071f95cb6cc16680/EP.0.1.v0.1677381744.720.m3u8
-#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Shrek",Shrek 2
-https://server37.mxcdnab.online/newhls/48d0d381106aaaf6071f95cb6cc16680/EP.0.1.v0.1677381744.720.m3u8
-#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Shrek",Shrek 3
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/shrek-2.jpg", group-title="Shrek",Shrek 2
+https://server25.mxcdnab.online/newhls/fb05d0838fccc755a8432aea157aef09/EP.0.1.v1.1677372492.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/shrek-tercero.jpg", group-title="Shrek",Shrek Tercero
+https://server02.mxcdnab.online/newhls/15c7d2a0df4fa84bad00b283d225d98a/EP.0.1.v0.1677322056.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/shrek-para-siempre-el-capitulo-final.jpg", group-title="Shrek",Shrek 4 (Shrek Para Siempre)
+https://server19.mxcdnab.online/newhls/8a090ebb7a3d6b64311fc104fadf7f4c/EP.0.1.v0.1677704105.720.m3u8
 
-#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Shrek",Shrek 4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-aventuras-del-gato-con-botas-1588118141.jpg", group-title="Shrek",El Gato con Botas
 
-#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Shrek",Shrek 2
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-gato-con-botas-atrapado-en-un-cuento-epico.jpg", group-title="El Gato con Botas",El Gato con Botas: Atrapado en un cuento Épico
+https://server14.mxcdnab.online/newhls/466c43e4c8382e8a671bf4996954ed4a/EP.0.1.v0.1677489205.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/super-mario-bros-la-pelicula-2-1680808202.jpg", group-title="Animado",Súper Mario Bros: La película
+https://server14.mxcdnab.online/newhls/b9f3f5e072aa9be99699e94bdf0924d6/EP.0.1.v2.1691859102.720.m3u8
