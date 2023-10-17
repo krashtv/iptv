@@ -23,8 +23,8 @@ https://b7i4j3n3.stackpathcdn.com/dlive-jyotzaptex/1695601328/src/live.m3u8
 https://m130.uqload.io/3rfk5xgle5w2q4drdjdphm5pl4g5ucikwjtm3mv3vm44vfgzfb3y7lprvkqa/v.mp4
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 11
 https://server41.mxcdnab.online/newhls/bb50a995c76e54bc98b0b2facd64055e/EP.1.1.v0.1677841637.360.m3u8
-#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos",Bolivia vs Ecuador 
-https://cdnelverruca9.s3.amazonaws.com/manifest.m3u8
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos",Ecuador vs Colombia
+https://cedn3mo-usea.streaming.media.azure.net/26258c33-582f-409c-af0e-78c1b32b85d3/output-20231017-181246-manifest.ism/manifest(format=m3u8-aapl-v3).m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/shrek-1.jpg", group-title="Shrek",Shrek 1
