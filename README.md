@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://n9.cl/56qyu", group-title="Noticieros",RT
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d28b2e810e8ca64d62096249189b6e9.webp", group-title="Perú",AVN
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 01
 https://server23.mxcdnab.online/newhls/17032c967db5e0437e86bc7f93f616dc/EP.0.1.v0.1681813615.m3u8
