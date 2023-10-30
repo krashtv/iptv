@@ -9,8 +9,19 @@ https://canaltrece-live.logicideas.media/canaltrece-live/smil:livebk.smil/chunkl
 https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-700/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-Institucional-Colombia-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",Canal Institucional Colombia
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/CNC-Tulua-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",CNC Tuluá
+https://servers.amelbasoluciones.co:19360/cnctulualive/cnctulualive.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Telepacifico-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",Telepacífico
+https://vodcdn.logicideas.media/telepacifico-vod/smil:c0f5-bdf4-627d-25af-f5f7-8839-43b6-LI55b2.smil/chunklist_b1800000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Sin-t%C3%ADtulo-1-Recuperado.png?resize=696%2C392&ssl=1", group-title="Colombia",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1942937622.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-Institucional-Colombia-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",Canal Institucional Colombia
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-Institucional-Colombia-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",Canal Institucional Colombia
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
 
 
