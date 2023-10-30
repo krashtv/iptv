@@ -3,6 +3,17 @@
 #EXTINF:-1 tvg-logo="https://n9.cl/56qyu", group-title="Noticieros",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",Trece
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:livebk.smil/chunklist_w419249882_b2250000_sles.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Eureka-tu-canal-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",Eureka
+https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-700/index.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-Institucional-Colombia-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",Canal Institucional Colombia
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d28b2e810e8ca64d62096249189b6e9.webp", group-title="Perú",AVN
