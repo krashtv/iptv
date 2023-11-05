@@ -28,8 +28,8 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1673889666.m
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d28b2e810e8ca64d62096249189b6e9.webp", group-title="Perú",AVN
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 01
-https://server23.mxcdnab.online/newhls/17032c967db5e0437e86bc7f93f616dc/EP.0.1.v0.1681813615.m3u8
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos",Nacional vs Barcelona 
+https://videographlive.akamaized.net/in/vglivein/vgrec-sk-332388/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 02 your
 https://s211.vidcache.net:8166/play/a20230924X3jsO2FIYFF/video.mp4?
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 03
