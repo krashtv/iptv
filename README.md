@@ -17,12 +17,15 @@ https://vodcdn.logicideas.media/telepacifico-vod/smil:c0f5-bdf4-627d-25af-f5f7-8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1942937622.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Teleislas-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",Teleislas
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",CTV Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1673889666.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://zaracaytv.com/wp-content/uploads/2023/02/Logo-SLOGAN.svg", group-title="Ecuador",Zaracay
+https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8?nimblesessionid=129112030
 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d28b2e810e8ca64d62096249189b6e9.webp", group-title="Perú",AVN
