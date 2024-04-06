@@ -67,9 +67,9 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos", Barcelona vs Cuenca
 https://dhkn.alemanmx.online/live/1_selfies.m3u8
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos", Barcelona vs Cuenca 2
-https://dhkn.alemanmx.online/live/1_selfies.m3u8
-
-
+https://dhkn.alemanmx.online/live/barcelona.m3u8
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos", Barcelona vs Cuenca 3
+https://dhkn.alemanmx.online/live/barcelona.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 02 your
