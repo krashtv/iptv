@@ -70,7 +70,8 @@ https://dhkn.alemanmx.online/live/1_selfies.m3u8
 https://dhkn.alemanmx.online/live/barcelona.m3u8
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos", Barcelona vs Cuenca 3
 https://dhkn.alemanmx.online/live/barcelona.m3u8
-
+#EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos", Barcelona vs Cuenca 4
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CtAFAMOZKZ2roJbge1jqqrALh22Ao8MtiJJQzUQmFBGodzItCnwyEDO9groNCU9ObHHx6iBYgiPBR-LwTxmhIpoLz-GDMk96bMylthGLsHx1r3F9RSEEHoHQT-8aCZ_i87cfzrR0hCa9pNFrOy54T4Kyrr7LEEwp8C6OPMO6FqS-eaFgZDL-hIG4M_0I6Ylqo_zH2P7BiDQJHlpoOn0upTrOm0xxIOFIBoob-_BkulJTes59lbvmuYLcGOqE_TVrPa37SOgwFtyLsA_dRc9lcaOsSQx6XQNkB4TlhFTE5wY46YLFzbQjZFV2H8_3dCZaDRXbGXUegxJyE6xXVuB8I50J64aCSH8AZgf_2DMZM7VVqFPHYuyWQ66BGWkWjJCjcFxf5lvNkwiRdLnBNMHJhWhdZK-LQl2oYvJPOCndP8MaSiWV5KANSckZUVmhrGFZy9sMcgG24MN6rExNmu8jhVJclTcaJ5kvnW3JT8FXmubDmL-VNgAjaKuyA9vIytjL93kpbXO1_ymK0Nyod4nlrRDh4rwcGhT3uiBGex6JzIcI9f4d3VcFS77Z39IodLNag4swuGDSOTImgjOEW5aZ5Jf9TRciQplwLFgbqvTZ5Ume3x9_SM_7mB43uugxFJRLn0jmAJo-TWfZch0j81l2lBSwWykQdCCPKvwvKNCTgnqBqLl7_98vQeeCPc-bIfsEi5Q8lEG4Gt6wtifiZ2RNdldcS6faoBvrURovcTkcmasKIUtKCDjQ9kJKCyN5Bb7F2J0jk9vKfBHxekS4xlDukwHv6pSSMsmaaHT5MSQ7wq8JecF6ygdP2A65obHhC6vmEfHnFaB-zsYYf6zmucNlnu5vbQ7QWo4oYaSem32Lez7eathdQXPKr2G-qLDZbRf3VsmNKq2CA-SlxCHz3Us8Pixp-sti5zVVe4LlBg5RfmAw7mJLY0F8XAfhmMRttkpQ6hk_GgxclRQK7QmWaGlvxG0gASoJdXMtZWFzdC0xMMUH.m3u8
 
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Pablo Escobar",Pablo Escobar 02 your
 https://s211.vidcache.net:8166/play/a20230924X3jsO2FIYFF/video.mp4?
