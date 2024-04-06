@@ -65,7 +65,7 @@ https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8?PlaylistM3UCL
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos", Barcelona vs Cuenca
-https://dhkn.alemanmx.online/live/1_selfies.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvEFAhY04BFMn1Rdt5p_6X5r8-ZKJUdWux5t-7pP7jVLxK96rHJiZBmLAgIvRcG8Rt19--pzElCl5_veUxf5Oas2c4qFo1Qxjl-tHVD7l4p0t3mX9sjLC4h9YlZuXJQ6TVbq-L5Elj1VpUje5eaBWZQrIQAdMfN0WVLo8iq4nZ3xErdRwk_85jrc2RYONORyOCnPCQATZTADLOl3mkG4SSdKFXlGgZKwV0Bv7-IqLwIl5B21fMWNm_WoTM9oxuNeiiftaRTlhmffX0pzQwm-tf9nzI4nAq-Eo2BuyEYoYikKsBM44qUUgY8D3ZQdYSgPGb32plPGoTil1qRuErnvjdBnF2HH_qiOB47ISxnqQGxXFuRWwq_zCRqwGyc2f6yb1XOAZm_hvxWQavftNOQ-33xphOqbKwLGrARjKyhnex2JBxMm8TmfeekpIsLiG5F4274s38RNOhQGzOnaoYzolTbDBF0Nx8KinlMHG1lAcKu9oZE65bLv9ijnEtF5SUQuAOiOBv__JF7DItqD8I81Klg4-n80XBIxPhcz3rRWczetfHg0xaYrAM-ixwT-OiQNDBdO68d9EInm9QwoPVSDUodKDk_DKXRmgFy_I2Wq1FdMLQ1x15PDkypmmvxalHQhdwoVMwx27C3iuBcDNOYqY-zqJhjUDRy21eZWPdqCqSbP4f_3S8VL767IlW9nrm1NUVplYDJ-W9s8Dv0SfOXJaxfByWeScD59lsZbDaudVw91CG7kIP75v6ObmQ7ydZeNL-iu-zuBBNXu57dBuqM9UOC9izeUOs-QqeUND65prfe7J4AHgliG3bCzFbUVZWITV23KBAqePAmChb06MBRfRcCtPb1shSGCF2jls2WHcr9CIOeyiwUuuNgXA82rfDeLYfUHgWO7-POFdC3jObyF7NEK74YRxUtkWdUyw_Pmt2Ohm2NAHHJDfQnCAj4zshan8GXatqg_oqIcXkLt6FLyWwh9RMdYKULAcV0N91vLAhNsw78JGgy2gCwPCQhdNpxhhBkgASoJdXMtZWFzdC0xMMUH.m3u8
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos", Barcelona vs Cuenca 2
 https://dhkn.alemanmx.online/live/barcelona.m3u8
 #EXTINF:-1 tvg-logo=" https://n9.cl/w8v74", group-title="Eventos", Barcelona vs Cuenca 3
