@@ -3,6 +3,11 @@
 #EXTINF:-1 tvg-logo="https://n9.cl/56qyu", group-title="Noticieros",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
+#EXTINF:-1 tvg-logo="", group-title="Noticieros",Mi villano favorito 2
+https://fr5jn8z0rbsqi.sw-cdnstreamwish.com/hls2/01/02613/49oi398wtbfh_x/index-v1-a1.m3u8?t=sWD6hGxqc2YCZdQcpms8WzyR4tvUyBqeOyJBlyj6OEE&s=1712507003&e=129600&f=13068754&srv=sqtglz1vv8fs8&i=0.4&sp=500&p1=sqtglz1vv8fs8&p2=sqtglz1vv8fs8&asn=27947
+#EXTINF:-1 tvg-logo="", group-title="Noticieros",Mi villano favorito 3
+https://cdnst45.tokyvideo.com/videos/441/441541/mp4/ea21380275a15ce816d46a1bd165d035b8178bed11280e8d0fefd8d63528d915.mp4?secure=PXBeT3pwRknSEiFtnFIt7w%3D%3D%2C1712594246
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",Trece
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:livebk.smil/chunklist_w419249882_b2250000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Eureka-tu-canal-en-vivo-Online.png?resize=696%2C392&ssl=1", group-title="Colombia",Eureka
